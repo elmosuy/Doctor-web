@@ -32,7 +32,7 @@ export default function Home() {
       <section dir='rtl'>
       { filteredDaa.slice(0,n).map((el)=>(
  
-   <div dir='rtl' className='illness'>
+   <div dir='rtl' className='illness' key={el.id}>
               <div className='item-illness'>
              <h3 onClick={e=>(setidn(el.id))}>{el.link}</h3>
               <p>{el.type}</p>
