@@ -1,0 +1,257 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background-color: rgb(28, 27, 27);
+
+    
+  }
+}
+
+table{
+  background-color: blueviolet;
+  margin: 20px;
+}
+.cheldren{
+  position: relative;
+  top: 70px;
+}
+header {
+  position: fixed;
+  width: 100%;
+  height: 60px;
+  top: 0;
+  box-shadow: 0 0 10px rgba(13, 13, 13, 0.554);
+  background: rgb(34, 34, 35);
+  /* backdrop-filter: blur(10px); */
+  z-index: 100;
+  display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+  
+}
+
+header ul{
+  display: flex;
+  cursor: pointer;
+  gap: 40px;
+  width: 100%;
+  list-style: none;
+  font-weight: 600;
+  font-size: 16px;
+}
+.texts{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.text{
+  width: 60%;
+  line-height: 40px;
+}
+.text img{
+  width: 800px;
+}
+.All-illness{
+  display: flex;
+  justify-content: right;
+ 
+}
+
+.All-illness section{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right; 
+  width: 370px;
+  padding-top: 20px;
+  height: 90vh;
+  background: rgb(34, 34, 35);
+  overflow-y: scroll;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.086), 0 0 10px rgba(10, 10, 10, 0.538);
+  right: 10px;
+  position: fixed;
+  padding-bottom: 20px;
+  
+  padding-right: 20px;
+  
+}
+.All-illness section::-webkit-scrollbar {
+  width: 10px;
+  padding-top: 20px;
+
+}
+
+/* Track */
+.All-illness section::-webkit-scrollbar-track {
+  background: transparent;
+  /*box-shadow: inset 0 0 5px #dddddd;*/
+  border-radius: 4px;
+}
+
+/* Handle */
+.All-illness section::-webkit-scrollbar-thumb {
+  background: linear-gradient(to top,rgb(56, 55, 55),rgb(29, 29, 29),rgb(22, 22, 22));
+  height: 60px;
+  border-radius: 4px;
+}
+.All-illness section:hover::-webkit-scrollbar-thumb {
+  background: linear-gradient(to top,rgb(94, 93, 93),rgb(29, 28, 28));
+
+}
+
+.All-illness section h2{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: rgb(84, 84, 85);
+  cursor: pointer;
+  position: relative;
+  left: 15px;
+}
+.illness{
+  position: relative;
+  width: 100%;
+  justify-content: right;
+  
+}
+.All-illness select{
+  position: absolute;
+}
+.All-illness hr{
+border: 0.03px solid rgb(35, 35, 35);
+}
+.illness h3{
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+}
+.item-illness{
+  display: flex;
+  align-items: center;
+  display: flex;
+  gap: 10px;
+
+
+
+}
+.illness span{
+  font-size: small;
+}
+.item-illness p{
+  font-size: small;
+}
+
+/* search tab */
+.container {
+  position: relative;
+  --size-button: 40px;
+}
+
+.input {
+  padding-left: var(--size-button);
+  height: var(--size-button);
+  font-size: 15px;
+  border: none;
+  color: #fff;
+  outline: none;
+  width: var(--size-button);
+  transition: all ease 0.3s;
+  background-color: #191A1E;
+  box-shadow: 1.5px 1.5px 3px #0e0e0e, -1.5px -1.5px 3px rgb(95 94 94 / 25%), inset 0px 0px 0px #0e0e0e, inset 0px -0px 0px #5f5e5e;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.input:focus{
+ 
+  width: 200px;
+  cursor: text;
+  padding-right: 10px;
+  box-shadow: 0px 0px 0px #0e0e0e, 0px 0px 0px rgb(95 94 94 / 25%), inset 1.5px 1.5px 3px #0e0e0e, inset -1.5px -1.5px 3px #5f5e5e;
+}
+
+.input:focus  {
+  pointer-events: all;
+  cursor: pointer;
+}
+
+.container .icon {
+  position: absolute;
+  width: var(--size-button);
+  height: var(--size-button);
+  top: 0;
+  left: 0;
+  padding: 8px;
+  pointer-events: none;
+}
+
+.container .icon svg {
+  width: 100%;
+  height: 100%;
+}
+.data{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  line-height: 29px;
+  width: 65%;
+  padding-top: 20px;
+  height: 90vh;
+  background: rgb(34, 34, 35);
+  overflow-y: scroll;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.086), 0 0 10px rgba(10, 10, 10, 0.538);
+  left:50px;
+  position: fixed;
+  padding-bottom: 20px;
+  
+  padding-right: 20px;
+  
+}
+.data::-webkit-scrollbar {
+  width: 10px;
+  padding-top: 20px;
+
+}
+
+/* Track */
+.data::-webkit-scrollbar-track {
+  background: transparent;
+  /*box-shadow: inset 0 0 5px #dddddd;*/
+  border-radius: 4px;
+}
+
+/* Handle */
+.datan::-webkit-scrollbar-thumb {
+  background: linear-gradient(to top,rgb(56, 55, 55),rgb(29, 29, 29),rgb(22, 22, 22));
+
+  border-radius: 4px;
+}
+.data:hover::-webkit-scrollbar-thumb {
+  background: linear-gradient(to top,rgb(94, 93, 93),rgb(29, 28, 28));
+
+}
