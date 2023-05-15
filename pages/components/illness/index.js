@@ -5,6 +5,7 @@ import data2 from "../../api/data_dr_Image.json"
 
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
+import Search from '../search'
 
 export default function Home() {
   const [select, setselect] = useState("")
@@ -23,13 +24,26 @@ export default function Home() {
 
   return (
     <div>
-      {/* <select  name="انواع" id="" onChange={(e)=>{setselect(e.target.value)}}>
-        <option value="الجلدية">الامراض الجلدية</option>
-      </select> */}
+     
     <div className='All-illness'>
       
 
       <section dir='rtl'>
+     <select  name="انواع" id="" onChange={(e)=>{setselect(e.target.value)}}>
+     <option value="الجلدية">الامراض الجلدية</option>
+     <option value="العصبية">الامراض العصبية</option>
+     <option value="التنفسي">الامراض الجهاز التنفسي</option>
+     <option value="جراحة"> جراحة عامة</option>
+     <option value="الأنسجة"> علم الانسجة</option>
+     <option value="العضلات"> أمراض العضلات والعظام و المفاصل </option>
+     <option value="القلب">أمراض القلب و الشرايين </option>
+     <option value="نفسية">الامراض نفسية</option>
+     <option value="العيون ">الامراض العيون </option>
+     <option value="التشريح"> علم التشريح</option>
+     <option value="البولية">  أمراض المسالك البولية والتناسلية </option>
+     <option value="الأجنة"> علم الأجنة </option>
+     <option value="وحنجرة">الامراض أنف، أذن وحنجرة</option>
+      </select>  <Search/>
       { filteredDaa.slice(0,n).map((el)=>(
  
    <div dir='rtl' className='illness' key={el.id}>

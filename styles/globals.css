@@ -147,7 +147,12 @@ border: 0.03px solid rgb(35, 35, 35);
 .illness h3{
   font-family: Arial, Helvetica, sans-serif;
   cursor: pointer;
+  color: rgb(210, 219, 219);
 }
+.illness h3:hover{
+  color: rgb(0, 255, 247);
+}
+
 .item-illness{
   display: flex;
   align-items: center;
@@ -158,10 +163,17 @@ border: 0.03px solid rgb(35, 35, 35);
 
 }
 .illness span{
-  font-size: small;
+  font-size: 10px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  bottom: 15px;
+  color: rgb(156, 155, 155);
+
 }
 .item-illness p{
-  font-size: small;
+  font-size: 12px;
+  color: rgb(100, 100, 100);
 }
 
 /* search tab */
@@ -216,6 +228,7 @@ border: 0.03px solid rgb(35, 35, 35);
   display: flex;
   flex-wrap: wrap;
   justify-content: center; 
+  border: 1px solid rgb(88, 88, 88);
   line-height: 29px;
   width: 65%;
   padding-top: 20px;
@@ -224,7 +237,7 @@ border: 0.03px solid rgb(35, 35, 35);
   overflow-y: scroll;
   border-radius: 10px;
   position: relative;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.086), 0 0 10px rgba(10, 10, 10, 0.538);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.641), 0 0 20px rgba(10, 10, 10, 0.69);
   left:50px;
   position: fixed;
   padding-bottom: 20px;
@@ -254,4 +267,13 @@ border: 0.03px solid rgb(35, 35, 35);
 .data:hover::-webkit-scrollbar-thumb {
   background: linear-gradient(to top,rgb(94, 93, 93),rgb(29, 28, 28));
 
+}
+.data h3{
+  width:100%;
+  text-align: center;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.data p{
+  color: #cfcccc;
 }
