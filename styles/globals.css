@@ -99,6 +99,17 @@ header ul{
   padding-right: 20px;
   
 }
+.All-illness section select{
+  width: 150px;
+  height: 35px;
+  position: absolute;
+  border-radius: 10px;
+  left: 10px;
+  background-color: rgba(40, 41, 41, 0);
+}
+.All-illness section select option{
+  background-color: #191A1E;
+}
 .All-illness section::-webkit-scrollbar {
   width: 10px;
   padding-top: 20px;
@@ -131,6 +142,16 @@ header ul{
   cursor: pointer;
   position: relative;
   left: 15px;
+}
+.All-illness .filter .searc{
+  position: relative;
+}
+.All-illness .filter svg{
+  position: absolute;
+    z-index: 10;
+    left:3px;
+    top: 6px;
+    width: 25px;
 }
 .illness{
   position: relative;
@@ -191,7 +212,7 @@ border: 0.03px solid rgb(35, 35, 35);
   outline: none;
   width: var(--size-button);
   transition: all ease 0.3s;
-  background-color: #191A1E;
+  background-color: #202022;
   box-shadow: 1.5px 1.5px 3px #0e0e0e, -1.5px -1.5px 3px rgb(95 94 94 / 25%), inset 0px 0px 0px #0e0e0e, inset 0px -0px 0px #5f5e5e;
   border-radius: 50px;
   cursor: pointer;
@@ -199,7 +220,7 @@ border: 0.03px solid rgb(35, 35, 35);
 
 .input:focus{
  
-  width: 200px;
+  width: 150px;
   cursor: text;
   padding-right: 10px;
   box-shadow: 0px 0px 0px #0e0e0e, 0px 0px 0px rgb(95 94 94 / 25%), inset 1.5px 1.5px 3px #0e0e0e, inset -1.5px -1.5px 3px #5f5e5e;
@@ -276,4 +297,18 @@ border: 0.03px solid rgb(35, 35, 35);
 }
 .data p{
   color: #cfcccc;
+}
+.search-illness{
+  width: 70px;
+  height: 35px;
+  border-radius: 20px;
+  padding-right: 10px;
+  background-color: transparent;
+  border: 1px solid rgb(162, 160, 160);
+  transition: 1s ease;
+
+}
+.search-illness:focus{
+  outline: none;
+  width: 170px;
 }

@@ -9,9 +9,14 @@ import Search from '../search'
 
 export default function Home() {
   const [select, setselect] = useState("")
+  const [search, setsearcht] = useState("")
   const [idn, setidn] = useState("")
   
-  const filteredDaa = data.filter((el) => {return el.type.includes(select)})
+  const filteredDaa = data.filter((el) => {
+    return el.type.includes(select)&& el.link.includes(search)
+  
+  }
+    )
 
   
   
@@ -27,9 +32,11 @@ export default function Home() {
      
     <div className='All-illness'>
       
-
-      <section dir='rtl'>
+ <section dir='rtl'>    <div className='filter'>
+    
+     
      <select  name="انواع" id="" onChange={(e)=>{setselect(e.target.value)}}>
+     <option value="الجلدية"> فلتر حسب التصنيف العلمي</option>
      <option value="الجلدية">الامراض الجلدية</option>
      <option value="العصبية">الامراض العصبية</option>
      <option value="التنفسي">الامراض الجهاز التنفسي</option>
@@ -43,7 +50,17 @@ export default function Home() {
      <option value="البولية">  أمراض المسالك البولية والتناسلية </option>
      <option value="الأجنة"> علم الأجنة </option>
      <option value="وحنجرة">الامراض أنف، أذن وحنجرة</option>
-      </select>  <Search/>
+      </select>  
+      <div className='searc'>
+      <input type="search" className='search-illness' placeholder='ابحث' name="" id="" onChange={(e)=>{setsearcht(e.target.value)}}/> 
+      <div class="icon">
+        <svg viewBox="0 0 512 512" class="ionicon" xmlns="http://www.w3.org/2000/svg">
+            <title>Search</title>
+            <path stroke-width="32" stroke-miterlimit="10" stroke="currentColor" fill="none" d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z"></path>
+            <path d="M338.29 338.29L448 448" stroke-width="32" stroke-miterlimit="10" stroke-linecap="round" stroke="currentColor" fill="none"></path>
+        </svg>
+    </div> </div>
+    </div>
       { filteredDaa.slice(0,n).map((el)=>(
  
    <div dir='rtl' className='illness' key={el.id}>

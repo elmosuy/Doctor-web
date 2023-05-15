@@ -15,10 +15,10 @@ const Layout = ({children}) => {
             <header dir='rtl'>
               <div>
                 <ul>
-                    <li>الصفحة الرئيسية</li>
+                    <Link href="/"><li>الصفحة الرئيسية</li></Link>
                     <Link href="/components/illness/"><li>الامراض</li></Link>
                     <li>العلاج</li>
-                    <li>about</li>
+                    <li>من نحن</li>
                 </ul>
               </div>
               <span>
