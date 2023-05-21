@@ -16,12 +16,15 @@ const Layout = ({children}) => {
               <div>
                 <ul>
                     <Link href="/"><li>الصفحة الرئيسية</li></Link>
+                    <Link href="/"><li> الطب والصحة</li></Link>
+                    <Link href="/"><li>الجمال والولادة </li></Link>                
                     <Link href="/components/illness/"><li>الامراض</li></Link>
-                    <li>العلاج</li>
+                    <Link href="/components/alaj"><li>العلاج</li></Link>
                     <li>من نحن</li>
                 </ul>
               </div>
               <span>
+          
                 <Search/>
               </span>
             </header>

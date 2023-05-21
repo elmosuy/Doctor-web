@@ -46,11 +46,12 @@ header {
   /* backdrop-filter: blur(10px); */
   z-index: 100;
   display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
 
   
 }
+
 
 header ul{
   display: flex;
@@ -58,8 +59,11 @@ header ul{
   gap: 40px;
   width: 100%;
   list-style: none;
-  font-weight: 600;
-  font-size: 16px;
+  font-weight: 400;
+  font-size: 13px;
+}
+header span{
+
 }
 .texts{
   display: flex;
@@ -86,7 +90,7 @@ header ul{
   justify-content: right; 
   width: 370px;
   padding-top: 20px;
-  height: 90vh;
+  height: 87vh;
   background: rgb(34, 34, 35);
   overflow-y: scroll;
   border-radius: 10px;
@@ -201,6 +205,8 @@ border: 0.03px solid rgb(35, 35, 35);
 .container {
   position: relative;
   --size-button: 40px;
+  left: 100px;
+  transform: scale(.8);
 }
 
 .input {
@@ -220,7 +226,7 @@ border: 0.03px solid rgb(35, 35, 35);
 
 .input:focus{
  
-  width: 150px;
+  width: 250px;
   cursor: text;
   padding-right: 10px;
   box-shadow: 0px 0px 0px #0e0e0e, 0px 0px 0px rgb(95 94 94 / 25%), inset 1.5px 1.5px 3px #0e0e0e, inset -1.5px -1.5px 3px #5f5e5e;
@@ -253,7 +259,7 @@ border: 0.03px solid rgb(35, 35, 35);
   line-height: 29px;
   width: 65%;
   padding-top: 20px;
-  height: 90vh;
+  height: 88vh;
   background: rgb(34, 34, 35);
   overflow-y: scroll;
   border-radius: 10px;
@@ -311,4 +317,151 @@ border: 0.03px solid rgb(35, 35, 35);
 .search-illness:focus{
   outline: none;
   width: 170px;
+}
+.colc{
+  width: 270px;
+  height: 160px;
+  background:linear-gradient(to bottom,rgb(51, 51, 51),rgb(17, 18, 19));
+  padding: 2px;
+  border-radius: 20px;
+  text-align: center;
+  align-items: center;
+  padding-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.dates{
+display: none;
+
+width: 90%;
+text-align: center;
+justify-content: center;
+color: #e0e0e9;
+}
+.show-last-date{
+  display: flex;
+}
+.colc h2{
+  color: #c8c8c8;
+  font-size: 19px;
+}
+.colc h4{
+  color: #5d5d5f;
+}
+.colc input{
+  width: 20px;
+  height: 23px;
+  background-color: transparent;
+  position: absolute;
+  top: 68px;
+  left: 20px;
+  color: transparent;
+  border:0;
+  transform: scale(1.7);
+}
+.colc button{
+  width: 100px;
+  margin-top: 4px;
+  border-radius: 20px;
+  background-color:transparent;
+  border: 1px solid  ;
+}
+.colc button:hover{
+border: 1px solid rgb(0, 255, 247);
+}
+.colc input:hover{
+  border: 1px solid rgb(0, 255, 247);
+}
+.alaj{
+  display: flex;
+  justify-content: center;
+}
+.data2{
+  padding-top: 20px;
+  background: rgb(34, 34, 35);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.641), 0 0 20px rgba(10, 10, 10, 0.69);
+  padding-bottom: 20px;
+  margin-right: 20px;
+  width: 70%;
+  float: right;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-right: 20px;
+  
+  
+}
+
+.data2 p{
+    width: 90%;
+    line-height: 36px;
+    color: #c7c2c2;
+    font-size: 17px;
+    position: relative;
+    right: 10px;
+
+}
+.data2 h2{
+  color: #cbcbce;
+  font-size: 20px;
+
+}
+.item-alaj{
+  margin-bottom: 60px;
+}
+.data2 h1{
+  text-align: center;
+  margin-bottom: 40px;
+  width: 70%;
+}
+.data2 table {
+    top:10px;
+    font-size: 25px;
+    padding: 7px;
+    background-color: transparent;
+}
+.data2 table td{
+  border: 1px dotted;
+  text-align: center;
+  padding: 7px;
+
+}
+.Alaj-data{
+  position: relative;
+  
+}
+.Alaj-head{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.alaj-api{
+  padding-right: 20px;
+}
+.api-alaj h2{
+  text-align: center;
+  position: relative;
+  bottom: 10px;
+  cursor: pointer;
+}
+.api-alaj h1{
+  text-align: center;
+}
+.id-index{
+  display: flex;
+  align-items: center;
+
+}
+.id-index p{
+  font-size: 20px;
+  position: relative;
+  bottom: 3px;
+}
+.id-index span{
+  font-size: 30px;
+  position: relative;
+  top: -4px;
+}
+.alaj-api hr{
+    width: 40%;   
+    font-size: 4px; 
+    position: absolute;
 }

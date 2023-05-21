@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import data from "../../api/api_dr.json"
-import data2 from "../../api/data_dr_Image.json"
+import data from "../../api/api_illness.json"
+import data2 from "../../api/data_illness.json"
 
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
@@ -52,9 +52,9 @@ export default function Home() {
      <option value="وحنجرة">الامراض أنف، أذن وحنجرة</option>
       </select>  
       <div className='searc'>
-      <input type="search" className='search-illness' placeholder='ابحث' name="" id="" onChange={(e)=>{setsearcht(e.target.value)}}/> 
-      <div class="icon">
-        <svg viewBox="0 0 512 512" class="ionicon" xmlns="http://www.w3.org/2000/svg">
+      <input type="search" className='search-illness' placeholder='ابحث' name="search" id="ss" onChange={(e)=>{setsearcht(e.target.value)}}/> 
+      <div class="icon" >
+        <svg viewBox="0 0 512 512" htmlFor="ss" class="ionicon" xmlns="http://www.w3.org/2000/svg">
             <title>Search</title>
             <path stroke-width="32" stroke-miterlimit="10" stroke="currentColor" fill="none" d="M221.09 64a157.09 157.09 0 10157.09 157.09A157.1 157.1 0 00221.09 64z"></path>
             <path d="M338.29 338.29L448 448" stroke-width="32" stroke-miterlimit="10" stroke-linecap="round" stroke="currentColor" fill="none"></path>
@@ -62,7 +62,6 @@ export default function Home() {
     </div> </div>
     </div>
       { filteredDaa.slice(0,n).map((el)=>(
- 
    <div dir='rtl' className='illness' key={el.id}>
               <div className='item-illness'>
              <h3 onClick={e=>(setidn(el.id))}>{el.link}</h3>
