@@ -55,6 +55,7 @@ header {
   z-index: 2000;
   position: fixed;
   top: -45px;
+  z-index: 100;
 }
 
 .head-leabl{
