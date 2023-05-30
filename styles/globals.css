@@ -56,6 +56,9 @@ header {
   top: -45px;
   z-index: 1000;
 }
+.logod img{
+  width: 200px;
+}
 
 .head-leabl{
   display: flex;
@@ -1242,9 +1245,12 @@ header ul li:hover{
   display: none;
 }
 .logod{
-  position: fixed;
-  top: -30px;
+  
+}
+.logod img{
   width:150px;
+  position: fixed;
+  top: -16px;
   left: 40%;
 }
 
@@ -1338,11 +1344,10 @@ header ul li:hover{
   .prevention__image {
     width: 300px;
   }
-  .logod{
+  .logod  img{
     position: fixed;
-    top: -35px;
-    left: 26%;
-    z-index: 100;
+    top: -16px;
+    left: 34%;
   }
   
 }
