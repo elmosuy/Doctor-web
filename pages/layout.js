@@ -24,7 +24,7 @@ const Layout = ({children}) => {
             </title>
       </Head>
         <span className='bourger' onClick={handelHeader}>|||</span>
-        <span className='logod'><img src="dlogo.png" width={200} alt="" /></span>
+        <span className='logod'><Link href="/"><img src="dlogo.png"  alt="" /></Link></span>
         
             <header dir='rtl' id='header'>
               <div>
