@@ -1131,7 +1131,7 @@ header ul li:hover{
   content: "جميع الامراض";
   position: absolute;
   top: 7px;
-  font-size: 3px;
+  font-size: 13px;
   left: 14px;
   width: 50px;
   line-height: 10px;
@@ -1184,6 +1184,8 @@ header ul li:hover{
 }
 .hero .row img{
   width: 80%;
+  position: relative;
+  right: 30px;
   }
   .bourger{
     display: flex;
