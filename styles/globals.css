@@ -1216,10 +1216,10 @@ header ul li:hover{
     height: 100%;
     width: 100%;
     top: 0;
-    background-color: rgb(22, 21, 21);
+    /* background-color: rgb(22, 21, 21); */
     right: -1550px;
 
-    color: white;
+    /* color: white; */
   }
   .All-illness .data{
     width: 100%;
