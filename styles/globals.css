@@ -109,6 +109,7 @@ header span{
   height: 90vh;
   overflow-y: scroll;
   position: relative;
+  padding-top: 80px;
   z-index: 100;
   box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.086),-5px 8px 10px rgba(10, 10, 10, 0.538);
   top: 60px;
@@ -1244,12 +1245,13 @@ header ul li:hover{
 .alaj img{
   display: none;
 }
-.logod{
-  
+.logod {
+  z-index: 200;
 }
 .logod img{
   width:150px;
   position: fixed;
+  z-index: 200;
   top: -16px;
   left: 40%;
 }
