@@ -30,11 +30,11 @@ const Layout = ({children}) => {
               <div>
                 <ul>
                     <Link href="/"><li>الصفحة الرئيسية</li></Link>
-                    <Link href="/"><li> الطب والصحة</li></Link>
                     <Link href="/"><li>الجمال والولادة </li></Link>                
                     <Link href="/components/illness/"><li>الامراض</li></Link>
                     <Link href="/components/alaj"><li>العلاج</li></Link>
                     <Link href="/components/doa"><li>موسوعة الادوية</li></Link>
+                    <Link href="/components/advice"><li> نصائح </li></Link>
                 </ul>
               </div> <section className='head-leabl'><Search/>
               <label class="switch">
