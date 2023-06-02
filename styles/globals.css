@@ -822,14 +822,15 @@ padding-top: 200px;
 }
 
  .card {
-  box-shadow: 0px 5px 30px rgba(0, 0, 0, 0.08);
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.267);
   border-radius: 10px;
   margin-bottom: 30px;
   text-align: center;
   padding: 40px 30px 60px;
   overflow: hidden;
-  height: 460px;
+  height: 260px;
   cursor: pointer;
+  margin: 10px;
   border-bottom: 6px solid #fa5652;
   border: none;
 }
@@ -886,9 +887,7 @@ padding-top: 200px;
 
 }
 
-.prevention {
-  text-align: center;
-}
+
 .prevention .row-position {
   display: flex;
   align-items: center;
@@ -1517,9 +1516,11 @@ header ul li:hover{
  .advice-data {
   left: 0%;
   width: 100%;
+  border-radius: 0;
  }
  .advice-data img{
   width: 100%;
+  border-radius: 0;
  }
  .advice-data p{
   width: 100%;
