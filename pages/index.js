@@ -103,13 +103,7 @@ export default function Home() {
                         A newly identified type has caused a recent outbreak of respiratory 
                     </p>
                 </div>
-                <div class="row">
-                  
-                       
-                            <img src="https://github.com/alaattinerby/Covid-19-Website/blob/main/Covid-19/img/symptomps.png?raw=true" class="section__image" />
-                        
-                
-                </div>
+       
             </div>
         </section>
 
@@ -135,9 +129,7 @@ export default function Home() {
                         </p>       
                     </div>
                     <div class="col-12 col-md-6 col-lg-6 ">
-                        <figure class="prevention__figure">
-                            <img src="https://github.com/alaattinerby/Covid-19-Website/blob/main/Covid-19/img/prevention1.png?raw=true" class="section__image" alt=""/>
-                        </figure>
+                       
                     </div>                    
                 </div>
                 <div class="row row-position">
@@ -151,9 +143,7 @@ export default function Home() {
                         </p>
                     </div>
                     <div class="col-12 col-md-6 col-lg-6">
-                        <figure class="prevention__figure">
-                            <img src="https://github.com/alaattinerby/Covid-19-Website/blob/main/Covid-19/img/prevention2.png?raw=true" class="section__image" alt=""/>
-                        </figure>
+                     
                     </div>                    
                 </div>
                 <div class="row row-position">
@@ -167,9 +157,7 @@ export default function Home() {
                         </p>
                     </div>
                     <div class="col-12 col-md-6 col-lg-6 ">
-                        <figure class="prevention__figure">
-                            <img src="https://github.com/alaattinerby/Covid-19-Website/blob/main/Covid-19/img/prevention3.png?raw=true" class="section__image" alt=""/>
-                        </figure>
+                     
                     </div>                    
                 </div>
                 <div class="row row-position">
@@ -182,9 +170,7 @@ export default function Home() {
                         </p>
                     </div>
                     <div class="col-12 col-md-6 col-lg-6">
-                        <figure class="prevention__figure">
-                            <img src="https://github.com/alaattinerby/Covid-19-Website/blob/main/Covid-19/img/prevention4.png?raw=true" class="section__image" alt=""/>
-                        </figure>
+                      
                     </div>                    
                 </div>
             </div>
