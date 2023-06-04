@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import data from "../../api/data_ns.json"
 import Image from 'next/image'
 import Link from 'next/link'
@@ -17,16 +17,21 @@ const Advice = () => {
     advice.classList.remove("show-advice-data")
   } 
 
+  const [post, setpost] = useState([])
+  useEffect(() => { 
+    setpost(data)
+  }, []);
+
   return (
     <div className='advice'>
       <h1 >نصائح من أطباؤنا  المختصين</h1>
 
     <div className='items-advice' >
       {
-        data.slice(0,n).map((el)=>(
+        post.slice(0,n).map((el)=>(
          
             <section key={el.id} className='item-advice' onClick={()=>{setId(el.id)}}>
-              <img src={el.Image} alt="ew" width={300} onClick={handelFloatData} />
+              <img src={el.Image} alt="قال المختصون" width={300} onClick={handelFloatData} />
               <h3>{el.link}</h3>
               <span>{el.links}</span>
             </section>
