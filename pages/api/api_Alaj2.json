@@ -1,0 +1,2007 @@
+[
+    {
+        "id": 0,
+        "link": "1;3-dimethylamine, myrtecaine, salicylic acid",
+        "type": "١ ،٣ ديميثيلأمين، ميريتيكان، حمض الساليسيليك"
+    },
+    {
+        "id": 1,
+        "link": "1-propanol, chlorhexidine, hydrogen peroxide",
+        "type": "١- بروبانولول، الكلورهيكسيدين، بيروكسيد الهيروجين"
+    },
+    {
+        "id": 2,
+        "link": "1-hexadecanol, ethanol, ceramide, glycerol, alumino silicate, paraffin oil",
+        "type": "١- هيكساديكانول، إيثانول سيراميد، جليسيرول، ألومينوسيليكات، زيت البارافين"
+    },
+    {
+        "id": 3,
+        "link": "2;4-dichlorobenzyl alcohol, amylmetacresol",
+        "type": "٢، ٤- دايكلوروبينزيل الكحول، أميل ميتاكريسول"
+    },
+    {
+        "id": 4,
+        "link": "throat lozenges, 2;4-dichlorobenzyl alcohol, amylmetacresol",
+        "type": "2-4 دايكلوروبينزيل الكحول ، أميل ميتاكريسول"
+    },
+    {
+        "id": 5,
+        "link": "2-propanol, cetrimide, chlorhexidine",
+        "type": "٢- بروبانولول، سيتريميد، كلورهيكسيدين"
+    },
+    {
+        "id": 6,
+        "link": "2-propanol, aloe barbadensis, ethanol, glycerol, mentha piperita, propylene glycol",
+        "type": "٢- بروبانولول، صبار حقيقي، إيثانول، جليسيرول، نعناع فليفلي، بروبيلين جليكول"
+    },
+    {
+        "id": 7,
+        "link": "5- Hydroxytryptophan",
+        "type": "5-هيدروكسيتريبتوفان"
+    },
+    {
+        "id": 8,
+        "link": "8-quinolinol, dl-lactic acid",
+        "type": "٨- كوينولينول، دل- حمض اللاكتيك"
+    },
+    {
+        "id": 9,
+        "link": "8-quinolinol, menthol, tannin(s)",
+        "type": "٨- كوينولينول، مينثول، التانينات"
+    },
+    {
+        "id": 10,
+        "link": "D-polyglucosamine",
+        "type": "d-جلوكوزأمين، n-أسيتيل-d-جلوكوزأمين"
+    },
+    {
+        "id": 11,
+        "link": "Hydroquinone, Vitamin C, Vitamin E, Citric acid, Benzoic acid, Uvinul, Glycerin",
+        "type": "hydroquinone vit c vit e citric benzoic uvinol glycerin"
+    },
+    {
+        "id": 12,
+        "link": "Calendula, jojoba, aloe vera, panthenol, propolis, sesame oil, honey",
+        "type": "آذريون، جوجوبا، الصبر الحقيقي، بانثينول، عكبر النحل، زيت السمسم، عسل"
+    },
+    {
+        "id": 13,
+        "link": "arginine, fatty acid (unspecified), hydrocolloid",
+        "type": "آرجنين، أحماض دهنية، هيدروكولويد"
+    },
+    {
+        "id": 14,
+        "link": "Perindopril Arginine",
+        "type": "آرجنين البيريندوبريل"
+    },
+    {
+        "id": 15,
+        "link": "arginine, panax ginseng, soya lecithin, triticum vulgare, zinc",
+        "type": "آرجنين، جينسينج بانكس، ليسيثين الصويا، قمح طري،زنك"
+    },
+    {
+        "id": 16,
+        "link": "Arginine, Olea europea",
+        "type": "آرجنين، زيتون"
+    },
+    {
+        "id": 17,
+        "link": "arginine, avena sativa, boron, capsicum, centella asiatica, eleutherococcus senticosus, ginkgo biloba picolinic acid, serenoa repens, smilax medica,turnera diffusa, urtica dioica,zingiber officinale",
+        "type": "آرجنين، شوفان، بورون، الفلفل، سرة الأرض، جنسنج سيبيري، جنكة، حمض البيكولينيك، بلميط منشاري، فشاغ، دميانة، قراص كبير، زنجبيل"
+    },
+    {
+        "id": 18,
+        "link": "Arginine, Vitamin e, Zinc",
+        "type": "آرجنين، فيتامين إي، زنك"
+    },
+    {
+        "id": 19,
+        "link": "Arginine, Nicotinamide",
+        "type": "آرجنين، فيتامين ب3"
+    },
+    {
+        "id": 20,
+        "link": "arginine, camphor, matricaria chamomilla, menthol, quercus robur",
+        "type": "آرجنين، كافور، بابونج ألماني، مينثول، السنديان"
+    },
+    {
+        "id": 21,
+        "link": "arginine, camphor, glycerol, menthol",
+        "type": "آرجنين، كافور، جليسيرول، مينثول"
+    },
+    {
+        "id": 22,
+        "link": "arginine, caffeine, ginkgo biloba, isopropyl myristate, levocarnitine, lidocaine, menthol panax ginseng, panthenol",
+        "type": "آرجنين، كافيين، جنكة، ميريستات الإيزوبروبيل، ليفوكارنتين، ليدوكائين، مينثول، جنسينج بانكس، بانثينول"
+    },
+    {
+        "id": 23,
+        "link": "arginine, armeniaca vulgaris, ginkgo biloba, glycerol, panthenol, rosmarinus officinalis, aloe barbadensis",
+        "type": "آرجنين، مشمش، جنكة، جليسيرول، بانثينول، إكليل الجبل، صبر حقيقي"
+    },
+    {
+        "id": 24,
+        "link": "Arginine, Menthol",
+        "type": "آرجنين، مينثول"
+    },
+    {
+        "id": 25,
+        "link": "argania spinosa, citrus limonum, gelsemium sempervirens, glycerol, jojoba oil, olea europea, sulfur",
+        "type": "آرغان، ليمون، ياسمين أصفر، جليسيرول، زيت الجوجوبا، زيتون، كبريت"
+    },
+    {
+        "id": 26,
+        "link": "Acepromazine",
+        "type": "آسيبرومازين"
+    },
+    {
+        "id": 27,
+        "link": "Avanafil",
+        "type": "آفانافيل"
+    },
+    {
+        "id": 28,
+        "link": "Aconitinum Dil, Atropinum Sulfuricum, Mercurius Cyanatus",
+        "type": "آقونيطن، آتروبين، ميرسوريوس سولوبوليس"
+    },
+    {
+        "id": 29,
+        "link": "allantoin, avena sativa, hypericum perforatum, melaleuca alternifolia, propolis, salvia officinalis",
+        "type": "آلانتوين، الشوفان، العرن المثقوب، شجرة الشاي، العكبر، مريمية"
+    },
+    {
+        "id": 30,
+        "link": "allantoin, aluminium, calcium, dexpanthenol, magnesium, pyridoxine, retinol sodium, vitamin e, wool fat",
+        "type": "آلانتوين، ألمنيوم، كالسيوم، ديكسبانثينول، مغنيسيوم، ب6، ريتينول، صوديوم، فيتامين إي، لانولين"
+    },
+    {
+        "id": 31,
+        "link": "Allantoin, allium cepa, ascorbic acid, betacarotene, calendula officinalis, echinacea pallida, glycyrrhiza",
+        "type": "آلانتوين، أليوم سيبا، حمض اسكوربيك، بيتا كاروتين، كاليندولا أوفيشينالس، إشينسا باليدا، عرق سوس"
+    },
+    {
+        "id": 32,
+        "link": "allantoin, allium cepa, aloe barbadensis, arginine, calendula officinalis, elastin, jojoba oil matricaria chamomilla, panthenol, propolis,silicone oil",
+        "type": "آلانتوين، بصل، صبر حقيقي، آرجينين، البكورية الطبية، إلاستين، زيت الجوجوبا، بابونج ألماني، بانثينول، عكبر، زيت السيليكون"
+    },
+    {
+        "id": 33,
+        "link": "allantoin, allium cepa, heparin",
+        "type": "آلانتوين، بصل، هيبارين"
+    },
+    {
+        "id": 34,
+        "link": "allantoin, calendula officinalis, glycerol, matricaria chamomilla, panthenol, paraffin oil",
+        "type": "آلانتوين، بكورية طبية، جليسيرول، بابونج ألماني، بانثينول، زيت البارافين"
+    },
+    {
+        "id": 35,
+        "link": "allantoin, calendula officinalis, glycerol, matricaria chamomilla, melaleuca alternifolia, olea europea, panthenol zinc",
+        "type": "آلانتوين، بكورية طبية، جليسيرول، بابونج ألماني، شجرة الشاي، الزيتون، بانثينول، زنك"
+    },
+    {
+        "id": 36,
+        "link": "allantoin, calendula officinalis, honey, jojoba oil, olea europea, panthenol, propolis prunus amygdalus (dulcis), urea, vitamin e,yellow beeswax",
+        "type": "آلانتوين، بكورية طبية، عسل، زيت الجوجوبا، الزيتون، بانثينول، عكبر، لوز، يوريا، فيتامين إي، شمع العسل الأصفر"
+    },
+    {
+        "id": 37,
+        "link": "allantoin, glycerol, panthenol, prunus amygdalus (dulcis)",
+        "type": "آلانتوين، جليسيرول، بانثينول، لوز حلو"
+    },
+    {
+        "id": 38,
+        "link": "allantoin, glycerol, olea europea, panthenol, paraffin oil, zinc",
+        "type": "آلانتوين، جليسيرول، زيتون، بانثينول، زيت البارافين، زنك"
+    },
+    {
+        "id": 39,
+        "link": "allantoin, glycerol, olea europea, panthenol, paraffin oil, wool fat, yellow beeswax zinc",
+        "type": "آلانتوين، جليسيرول، زيتون، بانثينول، زيت البارافين، لانولين، شمع العسل الأصفر، زنك"
+    },
+    {
+        "id": 40,
+        "link": "allantoin, salicylic acid, triclosan, zinc",
+        "type": "آلانتوين، حمض الساليساليك، تريكلوزان، زنك"
+    },
+    {
+        "id": 41,
+        "link": "allantoin, diazolidinyl urea, dimeticone, levomenol, menthol, panthenol, salicylic acid",
+        "type": "آلانتوين، دايازوليدينيل يوريا، ديميتيكون، ليفومينول، مينثول، بانثينول، حمض الساليساليك"
+    },
+    {
+        "id": 42,
+        "link": "allantoin, dexpanthenol, olea europea, paraffin oil, titanium, triticum vulgare, zinc",
+        "type": "آلانتوين، ديكسابانثينول، زيتون، زيت البارافين، تيتانيوم، قمح الخبز، زنك"
+    },
+    {
+        "id": 43,
+        "link": "allantoin, dimeticone, matricaria chamomilla, olea europea, panthenol, vitamin e, wool fat zinc",
+        "type": "آلانتوين، ديميتيكون، البابونج الألماني، الزيتون، البانثينول، فيتامين إي، لانولين، زنك"
+    },
+    {
+        "id": 44,
+        "link": "allantoin, dimeticone, glycerol, levomenol, panthenol, prunus amygdalus (amara)",
+        "type": "آلانتوين، ديميتيكون، جليسيرول، ليفومينول، بانثينول، اللوز المر"
+    },
+    {
+        "id": 45,
+        "link": "Allantoin, Resorcinol, Zinc",
+        "type": "آلانتوين، ريزورسينول، زنك"
+    },
+    {
+        "id": 46,
+        "link": "Allantoin, aloe vera, sodium hydroxide, irgasan, paraffin oil, titanium dioxide, vitamin e",
+        "type": "آلانتوين، صبار، هيدروكسيد الصوديوم، إرجازان، زيت البارافين، ثاني أكسيد التيتانيوم، فيتامين هـ"
+    },
+    {
+        "id": 47,
+        "link": "allantoin, arctium lappa, matricaria chamomilla, rosa canina, thymol, triclosan",
+        "type": "آلانتوين، صبر حقيقي، أحادي إيثان الكوكاميدوبروبيل البيتانأميد، جليسيرول، عرق السوس، شجرة الشاي، ريتينول، حمض الساليساليك، تيتانيوم، تريكلوزان، فيتامين إي، زنك"
+    },
+    {
+        "id": 48,
+        "link": "allantoin, aloe barbadensis, calendula officinalis, cod liver oil, matricaria chamomilla, propolis, salicylic acid",
+        "type": "آلانتوين، صبر حقيقي، البكورية الطبية، زيت كبد القد، بابونج ألماني، عكبر، حمض الساليساليك"
+    },
+    {
+        "id": 49,
+        "link": "allantoin, aloe barbadensis, calendula officinalis, echinacea angustifolia, glycyrrhiza glabra, olea europea, panthenol propolis, retinol, salicylic acid,squalane, zinc",
+        "type": "آلانتوين، صبر حقيقي، البكورية الطبية، قنفذية رفيعة الأوراق، عرق السوس، زيتون، بانثينول، عكبر، ريتينول، حمض الساليساليك، سيكوالين، زنك"
+    },
+    {
+        "id": 50,
+        "link": "allantoin, aloe barbadensis, carica papaya, cyclopentasiloxane, matricaria chamomilla, panax ginseng, titanium vitamin e, zinc",
+        "type": "آلانتوين، صبر حقيقي، ببايا، البينتوسيلوكزان الحلقي، بابونج ألماني، جنسينج باناكس، تيتانيوم، فيتامين إي، زنك"
+    },
+    {
+        "id": 51,
+        "link": "allantoin, aloe barbadensis, carica papaya, dimeticone, glycerol, honey, panthenol vitamin e, zinc",
+        "type": "آلانتوين، صبر حقيقي، ببايا، ديميتيكون، جليسيرول، عسل، بانثينول، فيتامين إي، زنك"
+    },
+    {
+        "id": 52,
+        "link": "allantoin, aloe barbadensis, calendula officinalis, propolis, ricinus communis, silicone oil, vitamin e",
+        "type": "آلانتوين، صبر حقيقي، بكورية طبية، عكبر، خروع، زيت السيليكون، فيتامين إي"
+    },
+    {
+        "id": 53,
+        "link": "allantoin, aloe barbadensis, cetrimide, melaleuca alternifolia, panthenol, resorcinol, salicylic acid vitamin e, zinc",
+        "type": "آلانتوين، صبر حقيقي، سيتريميد، شجرة الشاي، بانثينول، ريزورسينول، حمض الساليساليك، فيتامين إي، زنك"
+    },
+    {
+        "id": 54,
+        "link": "allantoin, aloe barbadensis, camellia sinensis, glycerol, melaleuca alternifolia, triclosan",
+        "type": "آلانتوين، صبر حقيقي، شاي أخضر، جليسيرول، شجرة الشاي ، تريكلوزان"
+    },
+    {
+        "id": 55,
+        "link": "allantoin, aloe barbadensis, camellia sinensis, dimeticone, glycolic acid, olea europea, panthenol paraffin oil, retinol, salicylic acid,triclosan, zinc",
+        "type": "آلانتوين، صبر حقيقي، شاي أخضر، ديميتيكون، حمض الجليكوليك، زيتون، بانثينول، زيت البارافين، ريتينول، حمض الساليساليك، التريكلوزان، زنك"
+    },
+    {
+        "id": 56,
+        "link": "allantoin, aloe barbadensis, melaleuca alternifolia, propylene glycol, pyrithione zinc, rosmarinus officinalis, thymus vulgare",
+        "type": "آلانتوين، صبر حقيقي، شجرة الشاي، بروبلين جليكول، بايريثيون الزنك، إكليل الجبل، زعتر شائع"
+    },
+    {
+        "id": 57,
+        "link": "allantoin, aloe barbadensis, melaleuca alternifolia, paraffin oil, vitamin e, wool fat",
+        "type": "آلانتوين، صبر حقيقي، شجرة الشاي، زيت البارافين، فيتامين إي، اللانولين"
+    },
+    {
+        "id": 58,
+        "link": "allantoin, aloe barbadensis, lavandula angustifolia, matricaria chamomilla, panthenol",
+        "type": "آلانتوين، صبر حقيقي، ضرم ضيق الأوراق، بابونج ألماني، بانتوثينيل"
+    },
+    {
+        "id": 59,
+        "link": "allantoin, aloe barbadensis, ascorbic acid, cacao butter, olea europea, panthenol, vitamin e",
+        "type": "آلانتوين، صبر حقيقي، فيتامين سي، زبدة الكاكاو، زيتون، بانثينول، فيتامين إي"
+    },
+    {
+        "id": 60,
+        "link": "allantoin, aloe barbadensis, camellia sinensis, dimeticone, glycerol, glycolic acid, olea europea panthenol, paraffin oil, retinol,salicylic acid, triclosan,vitamin e,zinc",
+        "type": "آلانتوين،صبر،شاي أخضر،ديميتيكون،جليسيرول،حمض الجلايكوليك،زيتون، بانثينول،البارافين،حمض الساليساليك،تريكلوزان،فيتامين(أ،إي)،زنك."
+    },
+    {
+        "id": 61,
+        "link": "Allantoin, aloe barbadensis, cocamidopropyl betainamide monoethan, glycerol, glycyrrhiza glabra, melaleuca alternifolia, retinol salicylic acid, titanium, triclosan,vitamin e, zinc",
+        "type": "آلانتوين،صبر،كوكاميد بروبيل بيتانأميد، جليسيرول،عرق السوس،شجرة الشاي،حمض الساليساليك،تيتانيوم، تريكلوزان،فيتامين(أ،إي)،زنك."
+    },
+    {
+        "id": 62,
+        "link": "Allantoin, honey, nasturtium officinale, olea europea, prunus amygdalus (amara), vitamin e",
+        "type": "آلانتوين، عسل، جرجير الماء، زيتون، لوز مر، فيتامين إي"
+    },
+    {
+        "id": 63,
+        "link": "Allantoin, honey, nigella sativa, propolis, yellow beeswax, zinc",
+        "type": "آلانتوين، عسل، حبة البركة، عكبر، شمع العسل الأصفر، زنك"
+    },
+    {
+        "id": 64,
+        "link": "allantoin, chlorhexidine, ethanol, limonene, menthol, panthenol",
+        "type": "آلانتوين، كلورهيكسيدين، إيثانول، لايمونين، مينثول، بانثينول"
+    },
+    {
+        "id": 65,
+        "link": "allantoin, climbazole, jojoba oil, melaleuca alternifolia, piroctone, salicylic acid, thymus vulgare",
+        "type": "آلانتوين، كليمبازول، زيت الجوجوبا، شجرة الشاي، بيريكتون، حمض الساليساليك، زعتر شائع"
+    },
+    {
+        "id": 66,
+        "link": "Alprostadil",
+        "type": "آلبروستاديل"
+    },
+    {
+        "id": 67,
+        "link": "aescine, diethylamine salicylate, heparinoid",
+        "type": "آيسين، ثنائي إيثيل الأمين ساليسيلات، الهيبارينويد"
+    },
+    {
+        "id": 68,
+        "link": "Abatacept",
+        "type": "أباتاسيبت"
+    },
+    {
+        "id": 69,
+        "link": "Upadacitinib",
+        "type": "اباداسيتنيب"
+    },
+    {
+        "id": 70,
+        "link": "Abarelix",
+        "type": "اباريليكس"
+    },
+    {
+        "id": 71,
+        "link": "Abacavir",
+        "type": "اباكافير"
+    },
+    {
+        "id": 72,
+        "link": "Abacavir, lamivudine",
+        "type": "أباكافير، لاميفودين"
+    },
+    {
+        "id": 73,
+        "link": "Abacavir , Lamivudine , Zidovudine",
+        "type": "اباكافير و لاميفودين و زيدوفودين"
+    },
+    {
+        "id": 74,
+        "link": "Abaloparatide",
+        "type": "أبالوباراتيد"
+    },
+    {
+        "id": 75,
+        "link": "Apalutamide",
+        "type": "ابالوتاميد"
+    },
+    {
+        "id": 76,
+        "link": "Abametapir",
+        "type": "اباميتابير"
+    },
+    {
+        "id": 77,
+        "link": "eptifibatide",
+        "type": "إبتيفيباتيد"
+    },
+    {
+        "id": 78,
+        "link": "Eptinezumab",
+        "type": "إبتينيزوماب"
+    },
+    {
+        "id": 79,
+        "link": "Ipratropium Bromide",
+        "type": "ابراتروبيوم"
+    },
+    {
+        "id": 80,
+        "link": "Ipratropium Bromide, Fenoterol HBr",
+        "type": "إبراتروبيوم بروميد ، فينوتيرول هيدروبروميد"
+    },
+    {
+        "id": 81,
+        "link": "Apraclonidine",
+        "type": "أبراكلونديد"
+    },
+    {
+        "id": 82,
+        "link": "Cortisone injection",
+        "type": "ابرة الكورتيزون"
+    },
+    {
+        "id": 83,
+        "link": "Abarelix",
+        "type": "أبرليكس"
+    },
+    {
+        "id": 84,
+        "link": "Aprotinin",
+        "type": "أبروتينين"
+    },
+    {
+        "id": 85,
+        "link": "Eprosartan",
+        "type": "ابروسارتان"
+    },
+    {
+        "id": 86,
+        "link": "eprosartan, hydrochlorothiazide",
+        "type": "ابروسارتان، هيدروكلوروثيازيد"
+    },
+    {
+        "id": 87,
+        "link": "Aprepitant",
+        "type": "ابريبيتانت"
+    },
+    {
+        "id": 88,
+        "link": "ipriflavone",
+        "type": "إبريفلافون"
+    },
+    {
+        "id": 89,
+        "link": "apremilast",
+        "type": "ابريميلاست"
+    },
+    {
+        "id": 90,
+        "link": "Abciximab",
+        "type": "أبسيكسيماب"
+    },
+    {
+        "id": 91,
+        "link": "Eplerenone",
+        "type": "ابليرينون"
+    },
+    {
+        "id": 92,
+        "link": "Epinephrine",
+        "type": "ابنفرين"
+    },
+    {
+        "id": 93,
+        "link": "Apomorphine",
+        "type": "ابومورفين"
+    },
+    {
+        "id": 94,
+        "link": "apigenin, carvacrol, carvone, chamazulene, cymene, d-fenchone, jasmone levomenol, piperitone, rosmarinus officinalis,terpin hydrate",
+        "type": "أبيجينين، كارفاكرول، كارفون، كمازولين، سايمين، د-فينشون، جاسمون، ليفومينول، بيبيريتون، إكليل الجبل، هيديت التيربين"
+    },
+    {
+        "id": 95,
+        "link": "Abiraterone Acetate",
+        "type": "أبيراتيرون أسيتات"
+    },
+    {
+        "id": 96,
+        "link": "Eperisone",
+        "type": "إبيريسون"
+    },
+    {
+        "id": 97,
+        "link": "Apixaban",
+        "type": "أبيكسبان"
+    },
+    {
+        "id": 98,
+        "link": "epinastine",
+        "type": "ابيناستين"
+    },
+    {
+        "id": 99,
+        "link": "Epinephrine, Etidocaine",
+        "type": "ابينفرين، اتيدوكائين"
+    },
+    {
+        "id": 100,
+        "link": "Epinephrine, Prilocaine",
+        "type": "ابينفرين، بيلوكاربين"
+    },
+    {
+        "id": 101,
+        "link": "Epinephrine, Pilocarpine Ophthalmic",
+        "type": "ابينفرين، بيلوكاربين للعين"
+    },
+    {
+        "id": 102,
+        "link": "Epinephrine Ophthalmic",
+        "type": "ابينفرين للعين"
+    },
+    {
+        "id": 103,
+        "link": "Epinephrine, Lidocaine, Tetracaine topical",
+        "type": "ابينفرين، ليدوكائين، تتراكائين موضعي"
+    },
+    {
+        "id": 104,
+        "link": "Epinephrine, Lidocaine Ophthalmic",
+        "type": "ابينفرين، ليدوكائين للعين"
+    },
+    {
+        "id": 105,
+        "link": "Epinephrine Topical",
+        "type": "ابينفرين موضعي"
+    },
+    {
+        "id": 106,
+        "link": "Activated Mormoiron Attapulgite, Guar gum",
+        "type": "اتابولجايت، صمغ الغوار"
+    },
+    {
+        "id": 107,
+        "link": "Atazanavir",
+        "type": "اتازانافير"
+    },
+    {
+        "id": 108,
+        "link": "Etravirine",
+        "type": "إترافيرين"
+    },
+    {
+        "id": 109,
+        "link": "Atracurium",
+        "type": "اتراكوريوم"
+    },
+    {
+        "id": 110,
+        "link": "Atropine",
+        "type": "أتروبين"
+    },
+    {
+        "id": 111,
+        "link": "Atropine, Edrophonium",
+        "type": "أتروبين، ادروفونيوم"
+    },
+    {
+        "id": 112,
+        "link": "Atropine, Pralidoxime",
+        "type": "أتروبين، براليدوكسيم"
+    },
+    {
+        "id": 113,
+        "link": "Atropine, Colchicine, Piperazine",
+        "type": "أتروبين، حمض الستريك، بيبيرازين"
+    },
+    {
+        "id": 114,
+        "link": "atropine, citric acid, colchicine, piperazine",
+        "type": "أتروبين، حمض الستريك، كولشسين، بيبيرازين"
+    },
+    {
+        "id": 115,
+        "link": "atropine, citric acid, colchicine, khellin, piperazine, sodium",
+        "type": "أتروبين، حمض الستريك، كولشسين، خِلِّين، بيبيرازين، صوديوم"
+    },
+    {
+        "id": 116,
+        "link": "Atropine, Diphenoxylate",
+        "type": "أتروبين، ديفينوكسيلات"
+    },
+    {
+        "id": 117,
+        "link": "Atropine, Difenoxin",
+        "type": "أتروبين، ديفينوكسين"
+    },
+    {
+        "id": 118,
+        "link": "Atropine, Phenobarbital",
+        "type": "أتروبين، فينوباربيتال"
+    },
+    {
+        "id": 119,
+        "link": "Atropine, Chlorpheniramine, Hyoscyamine, Phenylephrine, Scopolamine",
+        "type": "أتروبين، كلورفينرامين، هيوسيامين، فينيل افرين، سكوبولامين"
+    },
+    {
+        "id": 120,
+        "link": "Atropine, Chlorpheniramine, Hyoscyamine, Pseudoephedrine, Scopolamine",
+        "type": "أتروبين، كلورفينيرامين، هيوسيامين، سودوإيفيدرين، سكوبولامين"
+    },
+    {
+        "id": 121,
+        "link": "Atropine, Ahlorpheniramine, Hyoscyamine, Phenylephrine, Phenylpropanolamine, Scopolamine",
+        "type": "أتروبين، كلورفينيرامين، هيوسيامين، فينيل افرين، فينيل بروبانولامين، سكوبولامين"
+    },
+    {
+        "id": 122,
+        "link": "Atropine, Hyoscyamine, Phenobarbital, Scopolamine",
+        "type": "أتروبين، هيوسيامين، فينوباربيتال، سكوبولامين"
+    },
+    {
+        "id": 123,
+        "link": "Atropine, hyoscine, hyoscyamine, phenobarbital, sanzyme 2000",
+        "type": "أتروبين، هيوسين، هيوسامين، فينوباربيتال، سانزيم 2000"
+    },
+    {
+        "id": 124,
+        "link": "etelcalcetide",
+        "type": "إتلكالسيتيد"
+    },
+    {
+        "id": 125,
+        "link": "Atenolol",
+        "type": "اتنولول"
+    },
+    {
+        "id": 126,
+        "link": "Atogepant",
+        "type": "أتوجيبانت"
+    },
+    {
+        "id": 127,
+        "link": "Atorvastatin",
+        "type": "اتورفاستاتين"
+    },
+    {
+        "id": 128,
+        "link": "Ezetimibe, atorvastatin",
+        "type": "أتورفاستاتين، إيزيتيميب"
+    },
+    {
+        "id": 129,
+        "link": "Atorvastatin, Perindopril arginine, Amlodipine besilate",
+        "type": "اتورفاستاتين، بيريندوبريل ارجينين، ملوديبين بيزيلات"
+    },
+    {
+        "id": 130,
+        "link": "Atosiban",
+        "type": "أتوسيبان"
+    },
+    {
+        "id": 131,
+        "link": "Atovaquone",
+        "type": "اتوفاكون"
+    },
+    {
+        "id": 132,
+        "link": "Proguanil hydrochloride, atovaquone",
+        "type": "اتوفاكوين، بروغوانيل"
+    },
+    {
+        "id": 133,
+        "link": "Atomoxetine",
+        "type": "اتوموكستين"
+    },
+    {
+        "id": 134,
+        "link": "Etidronate",
+        "type": "إتيدرونات"
+    },
+    {
+        "id": 135,
+        "link": "Disodium etidronate",
+        "type": "إتيدرونات ثنائي الصوديوم"
+    },
+    {
+        "id": 136,
+        "link": "Etidocaine",
+        "type": "إتيدوكائين"
+    },
+    {
+        "id": 137,
+        "link": "atezolizumab",
+        "type": "اتيزوليزمب"
+    },
+    {
+        "id": 138,
+        "link": "Atenolol, Chlorthalidone",
+        "type": "أتينولول , كلورثاليدون ."
+    },
+    {
+        "id": 139,
+        "link": "Atenolol,Nifedipine",
+        "type": "أتينولول، نيفيديبين"
+    },
+    {
+        "id": 140,
+        "link": "Atenolol and Chlorthalidone",
+        "type": "اتينولول و كلوروثاليدون"
+    },
+    {
+        "id": 141,
+        "link": "Squill tincture, stramonium tincture, liquorice extract, lobelia tincture",
+        "type": "أثر البصل البري، أثر الداتورة، خلاصة العرق سوس، أثر اللوبيليا"
+    },
+    {
+        "id": 142,
+        "link": "Belladonna tincture, ginger tincture, papain",
+        "type": "أثر البلادونا، أثر الجنجر، بابين"
+    },
+    {
+        "id": 143,
+        "link": "Tincture primula root, tincture thyme, tincutre pimpinella, tincture grindelia, tincture tilia",
+        "type": "أثر جذر زهرة الربيع، أثر الزعتر، أثر أنيسون، أثر غرندلية، أثر الزيزفون"
+    },
+    {
+        "id": 144,
+        "link": "arnica tincture, belladonna tincture, capsicum extract",
+        "type": "أثر زهرة العطاس، أثر البيلادونا، خلاصة الفلفل"
+    },
+    {
+        "id": 145,
+        "link": "agalsidase alfa",
+        "type": "اجلاسيداز الفا"
+    },
+    {
+        "id": 146,
+        "link": "agalsidase beta",
+        "type": "اجلاسيداز بيتا"
+    },
+    {
+        "id": 147,
+        "link": "Ajmalicine, Almitrine",
+        "type": "أجمليسين، ألميتيرين"
+    },
+    {
+        "id": 148,
+        "link": "Agnucaston",
+        "type": "أجناكستون"
+    },
+    {
+        "id": 149,
+        "link": "Agomelatine",
+        "type": "اجوميلاتين"
+    },
+    {
+        "id": 150,
+        "link": "Agiolax",
+        "type": "أجيولكس"
+    },
+    {
+        "id": 151,
+        "link": "monoethanolamine oleate",
+        "type": "أحادي إيثانول أميني"
+    },
+    {
+        "id": 152,
+        "link": "Monomethyl Fumarate",
+        "type": "أحادي ميثيل فومارات"
+    },
+    {
+        "id": 153,
+        "link": "Calcium dobesilate monohydrate",
+        "type": "أحادي هيدرات كالسيوم دوبيسيلات"
+    },
+    {
+        "id": 154,
+        "link": "Magnesium Amino Acids Chelate",
+        "type": "أحماض المغنيسيوم الأمينية المخلبة"
+    },
+    {
+        "id": 155,
+        "link": "Amino Acids",
+        "type": "أحماض أمينية ."
+    },
+    {
+        "id": 156,
+        "link": "aminoacids, bioflavonoids, biotin, chromium, cysteine, glycine, l-glutamic acid 5-ethyl ester nicotinamide, nicotinic acid, retinol,vitamin e",
+        "type": "أحماض أمينية، البيوفلافونويد، بيوتين، كروم، سيستين، جلايسين، ل- حمض الجلوتاميك، فيتامين ب3، حمض النيكوتينيك، ريتينول، فيتامين إي"
+    },
+    {
+        "id": 157,
+        "link": "aminoacids, panthenol, vitamin e, biotin",
+        "type": "أحماض أمينية، بانثينول، فيتامين إي"
+    },
+    {
+        "id": 158,
+        "link": "amino acids, soya protein, lecithin, retinol & tocopherol, licorice, vitamin c, lavender extract",
+        "type": "أحماض أمينية، بروتين الصويا، ليسيثين، ريتينول، توكوفيرول، عرقسوس، فيتامين ج، خلاصة اللافندر"
+    },
+    {
+        "id": 159,
+        "link": "aminoacids, ascorbic acid, betacarotene, euphrasia officinalis, iron ferrous, quercetin, riboflavin saccharomyces cerevisiae, vaccinium myrtillus, vitamin e,zinc",
+        "type": "أحماض أمينية، فيتامين سي، البيتاكاروتين، حشيشة الرمد، كيرسيتين، فيتامين ب2، فطريات الخميرة، عنب الأحراج، فيتامين إي، زنك ، الحديد"
+    },
+    {
+        "id": 160,
+        "link": "amino acids, vitamins",
+        "type": "أحماض أمينية، فيتامينات"
+    },
+    {
+        "id": 161,
+        "link": "amino acids, vitamins, electrolytes",
+        "type": "احماض امينية، فيتامينات، كهارل"
+    },
+    {
+        "id": 162,
+        "link": "aminoacids, multivitamins and minerals",
+        "type": "أحماض أمينية، فيتامينات، معادن"
+    },
+    {
+        "id": 163,
+        "link": "Amino Acids with electrolytes",
+        "type": "أحماض أمينية و كهارل"
+    },
+    {
+        "id": 164,
+        "link": "Omega-3 Polyunsaturated Fatty Acids",
+        "type": "أحماض دهنية غير مشبعة أوميغا-3"
+    },
+    {
+        "id": 165,
+        "link": "amino acids, electrolytes, glucose (dextrose), lipids",
+        "type": "أحمض أمينية، كهارل، جلوكوز(ديكستروز)، شحميات"
+    },
+    {
+        "id": 166,
+        "link": "Skin Test Antigens Multiple",
+        "type": "اختبار الجلد متعدد المستضدات"
+    },
+    {
+        "id": 167,
+        "link": "Achillea, ambrosia leaves, ammi visnaga, chicory leaves, cymbopogon proximus, liquorice, peppermint oil",
+        "type": "أخيلية، أوراق طعام الآلهة، عمي فسناغا، أوراق الهندباء، سيمبوغون بروكسيمس، عرق السوس، زيت النعناع"
+    },
+    {
+        "id": 168,
+        "link": "ACHILLEA، BASIL، CHAMOMILE، CHICORY، HIBISCUS، VERBASCUM، VINE LEAVES",
+        "type": "أخيلية، ريحان، بابونج، الهندباء البرية، كركديه، بوصير، أوراق العنب"
+    },
+    {
+        "id": 169,
+        "link": "ACHILLEA، ANISE، BASIL، CHAMOMILE، CHICORY، FENNEL، LEMON GRASS",
+        "type": "أخيلية، يانسون، ريحان، كمون، الهندباء البرية، شومر، عشبة الليمون"
+    },
+    {
+        "id": 170,
+        "link": "Adapalene, Sulfur, Tretinoin",
+        "type": "أدابالين، كبريت، تريتينوين"
+    },
+    {
+        "id": 171,
+        "link": "Adapalene, Sulfur,Triclosan",
+        "type": "أدابالين، كبريت، تريكلوزان"
+    },
+    {
+        "id": 172,
+        "link": "Adapalene, Citrus limonum, Isotretinoin, Menthol, Retinol, Salicylic acid, Zinc",
+        "type": "أدابالين، ليمون، آيزوترتينوين، مينثول، ريتينول، حمض الساليساليك، زنك."
+    },
+    {
+        "id": 173,
+        "link": "Adapalene and Benzoyl peroxide",
+        "type": "أدابالين مع بيروكسيد البنزول"
+    },
+    {
+        "id": 174,
+        "link": "Adapalene",
+        "type": "ادابلين"
+    },
+    {
+        "id": 175,
+        "link": "Adalimumab",
+        "type": "اداليموماب"
+    },
+    {
+        "id": 176,
+        "link": "Edrophonium",
+        "type": "ادروفونيوم"
+    },
+    {
+        "id": 177,
+        "link": "Adrenaline",
+        "type": "أدرينالين"
+    },
+    {
+        "id": 178,
+        "link": "Adrenaline, Lidocaine Hydrochloride",
+        "type": "أدرينالين، هيدروكلوريد الليدوكائين"
+    },
+    {
+        "id": 179,
+        "link": "Iron Edetate",
+        "type": "أديتات الحديد"
+    },
+    {
+        "id": 180,
+        "link": "Edetate Disodium EDTA",
+        "type": "اديتات ثنائي الصوديوم اديتا"
+    },
+    {
+        "id": 181,
+        "link": "Adefovir",
+        "type": "اديفوفير"
+    },
+    {
+        "id": 182,
+        "link": "Adiphenine, Kanamycin, Kaolin",
+        "type": "أديفينين، كاناميسين، كاولين"
+    },
+    {
+        "id": 183,
+        "link": "Idelalisib",
+        "type": "إديلاليسيب"
+    },
+    {
+        "id": 184,
+        "link": "Adenosine, Lidocaine, Magnesium Sulfate",
+        "type": "أدينوزين، ليدوكايين، كبريتات المغنيسيوم"
+    },
+    {
+        "id": 185,
+        "link": "adenosine phosphate, ascorbic acid, choline, colecalciferol, copper, cyanocobalamin, folic acid magnesium, menadione, nicotinamide,pantothenic acid, phosphorus,potassium,pyridoxine, retinol, riboflavin,thiamine, vitamin e",
+        "type": "أدينوسين، فيتامين سي، كولين، فيتامين د3، نحاس، فيتامين ب12،ب9، ب6،ب5،ب3،ب2،ب1،إي،مغنيسيوم، مينانديون، فوسفور، بوتاسيوم، ريتينول"
+    },
+    {
+        "id": 186,
+        "link": "Irbesartan",
+        "type": "اربيسارتان"
+    },
+    {
+        "id": 187,
+        "link": "irbesartan, amlodipine besylate",
+        "type": "اربيسارتان، اميلوديبين بيسيليت"
+    },
+    {
+        "id": 188,
+        "link": "Irbesartan, hydrochlorothiazide",
+        "type": "أربيسارتان، هيدروكلوروثيازيد"
+    },
+    {
+        "id": 189,
+        "link": "Arbutamine",
+        "type": "أربيوتامين"
+    },
+    {
+        "id": 190,
+        "link": "Arbutin, rumex extract(tyrostat), enzyme inhibitor, antioxidants, aha",
+        "type": "أربيوتين، خلاصة رامكس (تيروستات)، صاد أنزيم، مضادات أكسدة، حمض ألفا هيدروكسي"
+    },
+    {
+        "id": 191,
+        "link": "Arbutin, liquorice, kojic acid, vitamin (c, e), panthenol",
+        "type": "أربيوتين، عرق سوس، حمض الكوجيك، فيتامين (ج، هـ)، بانثينول"
+    },
+    {
+        "id": 192,
+        "link": "Ertapenem",
+        "type": "إرتابينم"
+    },
+    {
+        "id": 193,
+        "link": "Lumefantrine & Artemether",
+        "type": "أرتميتر مع لوميفانترين"
+    },
+    {
+        "id": 194,
+        "link": "Ertugliflozin",
+        "type": "ارتوجليفلوزين"
+    },
+    {
+        "id": 195,
+        "link": "Ertugliflozin, Sitagliptin",
+        "type": "ارتوجليفلوزين، سيتاجليبتين"
+    },
+    {
+        "id": 196,
+        "link": "Ertugliflozin, Metformin hydrochloride",
+        "type": "ارتوجليفلوزين، ميتفورمين هيدروكلوريد"
+    },
+    {
+        "id": 197,
+        "link": "artesunate",
+        "type": "أرتيسونات"
+    },
+    {
+        "id": 198,
+        "link": "Articaine, Adrenaline",
+        "type": "أرتيكايين , أدرينالين"
+    },
+    {
+        "id": 199,
+        "link": "Argatroban",
+        "type": "ارجاتروبان"
+    },
+    {
+        "id": 200,
+        "link": "l-arginine-l-aspartate",
+        "type": "أرجنين، أسبرتات"
+    },
+    {
+        "id": 201,
+        "link": "Arginine, zinc oxide, vitamin e, onion honey, tea tree oil, calendula extract, aloe vera, olive leaf, rosehi",
+        "type": "أرجنين، أكسيد الزنك، فيتامين هـ، عسل البصل، زيت شجرة الشاي، خلاصة الآذريون، الصبر الحقيقي، أوراق الزيتون، وردة المسك"
+    },
+    {
+        "id": 202,
+        "link": "Arginine",
+        "type": "أرجينين"
+    },
+    {
+        "id": 203,
+        "link": "l-arginine, saw palmetto ext, ginkgo biloba ext, rosemary ext, thyme ext, lavender oil, aloe vera, pantheno",
+        "type": "أرجينين L، المنشارة النخلية، خلاصة الجنكة بيلوبا، خلاصة الروزماري، خلاصة الزعتر، زيت اللافندر، صبار، بانثينول"
+    },
+    {
+        "id": 204,
+        "link": "l-arginine, rosemary, panthenol, aloe vera, lavender, jojoba oil",
+        "type": "ارجينين ، روزماري ، بانثينول ،خلاصة الصبار ، الخزامي ، زيت الجوجوبا"
+    },
+    {
+        "id": 205,
+        "link": "Erdafitinib",
+        "type": "إردافيتينيب"
+    },
+    {
+        "id": 206,
+        "link": "Ardeparin",
+        "type": "أردبارين"
+    },
+    {
+        "id": 207,
+        "link": "Erdosteine",
+        "type": "إردوستين"
+    },
+    {
+        "id": 208,
+        "link": "oryza sativa",
+        "type": "أرز أسيوي"
+    },
+    {
+        "id": 209,
+        "link": "Red yeast rice",
+        "type": "أرز الخميرة الأحمر"
+    },
+    {
+        "id": 210,
+        "link": "Ergotamine",
+        "type": "إرغوتامين"
+    },
+    {
+        "id": 211,
+        "link": "ergocalciferol",
+        "type": "إرغوكالسيفيرول"
+    },
+    {
+        "id": 212,
+        "link": "ergocalciferol, phytomenadione, retinol, vitamin e",
+        "type": "إرغوكالسيفيرول، فايتوميناديون، فيتامين أ، فيتامين ه"
+    },
+    {
+        "id": 213,
+        "link": "ergocalciferol, retinol",
+        "type": "إرغوكالسيفيرول، فيتامين أ"
+    },
+    {
+        "id": 214,
+        "link": "ergocalciferol, retinol, vitamin e",
+        "type": "إرغوكالسيفيرول، فيتامين أ، فيتامين ه"
+    },
+    {
+        "id": 215,
+        "link": "ergocalciferol, ostrea gigas",
+        "type": "إرغوكالسيفيرول ، محار المحيط الهادئ"
+    },
+    {
+        "id": 216,
+        "link": "Ergometrine",
+        "type": "إرغومترين"
+    },
+    {
+        "id": 217,
+        "link": "Arformoterol",
+        "type": "أرفورموتيرول"
+    },
+    {
+        "id": 218,
+        "link": "Armodafinil",
+        "type": "أرمادوفينيل"
+    },
+    {
+        "id": 219,
+        "link": "Eribulin",
+        "type": "إريبولين"
+    },
+    {
+        "id": 220,
+        "link": "Aripiprazole",
+        "type": "اريبيبرازول"
+    },
+    {
+        "id": 221,
+        "link": "Erythropoietin Alfa",
+        "type": "إريثروبويتين ألفا ."
+    },
+    {
+        "id": 222,
+        "link": "Recombinant Human Erythropoietin",
+        "type": "إريثروبويتين المؤتلف ."
+    },
+    {
+        "id": 223,
+        "link": "Erythropoietin",
+        "type": "إريثروبيوتين"
+    },
+    {
+        "id": 224,
+        "link": "Erythromycin",
+        "type": "إريثرومايسين"
+    },
+    {
+        "id": 225,
+        "link": "Erythromycin ophthalmic",
+        "type": "اريثرومايسين للعين"
+    },
+    {
+        "id": 226,
+        "link": "Erythromycin, Zinc",
+        "type": "إريثرومسين، زنك"
+    },
+    {
+        "id": 227,
+        "link": "Erythromycin Topical",
+        "type": "إريثروميسين موضعي"
+    },
+    {
+        "id": 228,
+        "link": "Irinotecan",
+        "type": "إرينوتيكان"
+    },
+    {
+        "id": 229,
+        "link": "Irinotecan Liposomal",
+        "type": "إرينوتيكان ليبوسومال"
+    },
+    {
+        "id": 230,
+        "link": "Erenumab",
+        "type": "ارينوماب"
+    },
+    {
+        "id": 231,
+        "link": "Azapentacene Polysulfonate Sodium",
+        "type": "ازابنتاسين بوليسلفونات الصوديوم"
+    },
+    {
+        "id": 232,
+        "link": "Azatadine maleate",
+        "type": "أزاتادين"
+    },
+    {
+        "id": 233,
+        "link": "Azathioprine",
+        "type": "أزاثيوبراين"
+    },
+    {
+        "id": 234,
+        "link": "Azacitidine",
+        "type": "ازاسيتيدين"
+    },
+    {
+        "id": 235,
+        "link": "Azapropazone",
+        "type": "أزبروبازون"
+    },
+    {
+        "id": 236,
+        "link": "Aztreonam",
+        "type": "أزتريونام"
+    },
+    {
+        "id": 237,
+        "link": "Aztec marigold, Lutein, Zeaxanthin",
+        "type": "ازتيك ماريغولد، ليوتين، زيازانثين"
+    },
+    {
+        "id": 238,
+        "link": "Methylene Blue",
+        "type": "أزرق الميثيلين"
+    },
+    {
+        "id": 239,
+        "link": "Esomeprazole",
+        "type": "ازومبرازول"
+    },
+    {
+        "id": 240,
+        "link": "Ezetimibe",
+        "type": "ازيتيمب"
+    },
+    {
+        "id": 241,
+        "link": "Azithromycin",
+        "type": "أزيثروميسين"
+    },
+    {
+        "id": 242,
+        "link": "Azithromycin, Trovafloxacin",
+        "type": "أزيثروميسين، تروفافلوكساسين"
+    },
+    {
+        "id": 243,
+        "link": "Azelastine",
+        "type": "ازيلاستين"
+    },
+    {
+        "id": 244,
+        "link": "Azelastine Ophthalmic",
+        "type": "ازيلاستين عيني"
+    },
+    {
+        "id": 245,
+        "link": "Azelastine Hcl, Fluticasone propionate",
+        "type": "ازيلاستين هيدروكلورايد، بروبيونات فلوتيكاسون"
+    },
+    {
+        "id": 246,
+        "link": "Azilsartan medoxomil",
+        "type": "أزيلسارتان ميدوكسوميل"
+    },
+    {
+        "id": 247,
+        "link": "azilsartan medoxomil, chlorthalidone",
+        "type": "أزيلسارتان ميدوكسوميل، كلورثاليدون"
+    },
+    {
+        "id": 248,
+        "link": "Azintamide, Pancreatin",
+        "type": "ازينتامايد، البنكرياتين (انزيمات البنكرياس)"
+    },
+    {
+        "id": 249,
+        "link": "azintamide, cellulase, pancreatin",
+        "type": "ازينتامايد، السيليوليز، البنكرياتين (انزيمات البنكرياس)"
+    },
+    {
+        "id": 250,
+        "link": "Ispaghula, Mebeverine",
+        "type": "اسباجولا، ميبفرين"
+    },
+    {
+        "id": 251,
+        "link": "Asparaginase Erwinia Chrysanthemi",
+        "type": "أسباراجيناز إروينيا الأقحوان"
+    },
+    {
+        "id": 252,
+        "link": "Pullulan, Aspartame",
+        "type": "أسبارتام , البولولان ."
+    },
+    {
+        "id": 253,
+        "link": "Asparaginase",
+        "type": "أسبارجيناز"
+    },
+    {
+        "id": 254,
+        "link": "Magnesium Aspartate",
+        "type": "اسبرتات المغنيسيوم"
+    },
+    {
+        "id": 255,
+        "link": "Magnesium hydrogen aspartate",
+        "type": "أسبرتات هيدروجين الماغنسيوم"
+    },
+    {
+        "id": 256,
+        "link": "aspartame",
+        "type": "أسبرتام"
+    },
+    {
+        "id": 257,
+        "link": "Aspirin, Oxycodone",
+        "type": "أسبرين، أوكسيكودون"
+    },
+    {
+        "id": 258,
+        "link": "Aspirin, Omeprazole",
+        "type": "أسبرين، أوميبرازول"
+    },
+    {
+        "id": 259,
+        "link": "Aspirin, Pravastatin",
+        "type": "أسبرين، برافاستاتين"
+    },
+    {
+        "id": 260,
+        "link": "Aspirin, Brompheniramine, Dextromethorphan, Phenylpropanolamine",
+        "type": "أسبرين، برومفينيرامين، ديكستروميثورفان، فينيل بروبانولامين"
+    },
+    {
+        "id": 261,
+        "link": "Aspirin, Pentazocine",
+        "type": "أسبرين، بنتازوسين"
+    },
+    {
+        "id": 262,
+        "link": "Aspirin, Butalbital",
+        "type": "أسبرين، بوتالبيتال"
+    },
+    {
+        "id": 263,
+        "link": "Aspirin, Butalbital, Caffeine, Codeine",
+        "type": "أسبرين، بوتالبيتال، كافيين، كودايين"
+    },
+    {
+        "id": 264,
+        "link": "Aspirin, Citric Acid, Sodium Bicarbonate",
+        "type": "أسبرين، حمض الستريك، بيكربونات الصوديوم"
+    },
+    {
+        "id": 265,
+        "link": "Aspirin, Diphenhydramine",
+        "type": "أسبرين، ديفينهيدرامين"
+    },
+    {
+        "id": 266,
+        "link": "Aspirin, Diphenhydramine, Phenylpropanolamine",
+        "type": "أسبرين، ديفينهيدرامين، فينيل بروبانولامين"
+    },
+    {
+        "id": 267,
+        "link": "Aspirin, Pseudoephedrine",
+        "type": "أسبرين، سودوإيفيدرين"
+    },
+    {
+        "id": 268,
+        "link": "Aspirin, Phenyltoloxamine",
+        "type": "أسبرين، فينيل تولوكسامين"
+    },
+    {
+        "id": 269,
+        "link": "Aspirin, Carisoprodol",
+        "type": "أسبرين، كاريزوبرودول"
+    },
+    {
+        "id": 270,
+        "link": "Aspirin, Carisoprodol, Codeine",
+        "type": "أسبرين، كاريزوبرودول، كودايين"
+    },
+    {
+        "id": 271,
+        "link": "Aspirin, Caffeine, Propoxyphene",
+        "type": "أسبرين، كافيين، بروبوكسيفين"
+    },
+    {
+        "id": 272,
+        "link": "Aspirin, Caffeine, Dihydrocodeine",
+        "type": "أسبرين، كافيين، ثنائي هيدرو كودايين"
+    },
+    {
+        "id": 273,
+        "link": "Aspirin, Caffeine, Salicylamide",
+        "type": "أسبرين، كافيين، ساليسيلاميد"
+    },
+    {
+        "id": 274,
+        "link": "Aspirin, Calcium carbonate",
+        "type": "أسبرين، كربونات الكالسيوم"
+    },
+    {
+        "id": 275,
+        "link": "Aspirin, Chlorpheniramine, Dextromethorphan",
+        "type": "أسبرين، كلورفينيرامين، ديكستروميثورفان"
+    },
+    {
+        "id": 276,
+        "link": "Aspirin, Chlorpheniramine, Dextromethorphan, Phenylpropanolamine",
+        "type": "أسبرين، كلورفينيرامين، ديكستروميثورفان، فينيل بروبانولامين"
+    },
+    {
+        "id": 277,
+        "link": "Aspirin, Chlorpheniramine, Phenylpropanolamine",
+        "type": "أسبرين، كلورفينيرامين، فينيل بروبانولامين"
+    },
+    {
+        "id": 278,
+        "link": "Aspirin, Chlorpheniramine, Phenylephrine",
+        "type": "أسبرين، كلورفينيرامين، فينيليفرين"
+    },
+    {
+        "id": 279,
+        "link": "Aspirin, Meprobamate",
+        "type": "أسبرين، ميبروبامات"
+    },
+    {
+        "id": 280,
+        "link": "Aspirin, Methocarbamol",
+        "type": "أسبرين، ميثوكاربامول"
+    },
+    {
+        "id": 281,
+        "link": "Aspirin, Hydrocodone",
+        "type": "أسبرين، هيدروكودون"
+    },
+    {
+        "id": 282,
+        "link": "estrapronicate, hydroxyprogesterone , nandrolone",
+        "type": "استرابونيكيت،هيدروكسي بروجستيرون كابروات،ناندرولون"
+    },
+    {
+        "id": 283,
+        "link": "estradiol/progesterone",
+        "type": "استرادايول، بروجسترون"
+    },
+    {
+        "id": 284,
+        "link": "Istradefylline",
+        "type": "استراديفيللين"
+    },
+    {
+        "id": 285,
+        "link": "Estradiol",
+        "type": "استراديول"
+    },
+    {
+        "id": 286,
+        "link": "estradiol , prasterone",
+        "type": "استراديول، براستيرون"
+    },
+    {
+        "id": 287,
+        "link": "Estradiol, Testosterone",
+        "type": "استراديول، تيستوستيرون"
+    },
+    {
+        "id": 288,
+        "link": "Estradiol, dydrogesterone",
+        "type": "إستراديول، دايدروجيستيرون"
+    },
+    {
+        "id": 289,
+        "link": "Estradiol, Drospirenone",
+        "type": "استراديول , دروسبيرينون"
+    },
+    {
+        "id": 290,
+        "link": "Estradiol Valerate",
+        "type": "استراديول فاليرات"
+    },
+    {
+        "id": 291,
+        "link": "Estradiol valerate, cyproterone acetate",
+        "type": "إستراديول فاليرات، أسيتات السيبروتيرون"
+    },
+    {
+        "id": 292,
+        "link": "Estradiol Valerate, Norgestrel",
+        "type": "إستراديول فاليرات، نورجيستريل"
+    },
+    {
+        "id": 293,
+        "link": "Estradiol Topical",
+        "type": "إستراديول موضعي"
+    },
+    {
+        "id": 294,
+        "link": "Estradiol, Norethisterone",
+        "type": "إستراديول، نورإثيستيرون"
+    },
+    {
+        "id": 295,
+        "link": "Estradiol, Norethisterone Acetate",
+        "type": "إستراديول , نورإيثيستيرون أسيتات ."
+    },
+    {
+        "id": 296,
+        "link": "estradiol , norgestrel",
+        "type": "استراديول نورجيستريل"
+    },
+    {
+        "id": 297,
+        "link": "Estradiol, Norethindrone Topical",
+        "type": "إستراديول، نوريثيندرون موضعي"
+    },
+    {
+        "id": 298,
+        "link": "Estropipate Topical",
+        "type": "إستروبيبت موضعي"
+    },
+    {
+        "id": 299,
+        "link": "Conjugated Estrogens and Medroxyprogesterone",
+        "type": "إستروجين مقترن و ميدروكسي بروجيستيرون"
+    },
+    {
+        "id": 300,
+        "link": "Oestrogens (Conjugated), Norgestrel (DL)",
+        "type": "استروجين، نورجيستريل"
+    },
+    {
+        "id": 301,
+        "link": "Esterified Estrogens",
+        "type": "إستروجينات مؤسترة"
+    },
+    {
+        "id": 302,
+        "link": "Esterified Estrogens, Methyltestosterone",
+        "type": "إستروجينات مؤسترة، ميثيل تستوستيرون"
+    },
+    {
+        "id": 303,
+        "link": "Estriol Succinate, Lactobacillus Acidophilus, Lactose",
+        "type": "استريول سكسينات، الملبنة الحمضية، لاكتوز"
+    },
+    {
+        "id": 304,
+        "link": "Astercantha longifolia, Blepharis edulis (Utanjan), Crocus sativus (Saffron), Prunus amygdalus (Almond), Tribulus terrestris (Small caltrops)",
+        "type": "استيركانثا لونجيفوليا، اوتانجان، الزعفران، اللوز، تريبولوس تيريستريس"
+    },
+    {
+        "id": 305,
+        "link": "Acetylsalicylic Acid, Ascorbic Acid",
+        "type": "استيل ساليسيلك اسيد، اسكوربيك اسيد"
+    },
+    {
+        "id": 306,
+        "link": "Acetylsalicylic acid, Codeine",
+        "type": "أستيل ساليسيلك أسيد، كودايين"
+    },
+    {
+        "id": 307,
+        "link": "Acetylcysteine, alanine, arginine, glycine, histidine, isoleucine, leucine lysine, malic acid, methionine,n-acetyl-l-tyrosin, phenylalanine,proline,serine, taurine, threonine,tryptophan, valine",
+        "type": "أستيل سيستين،ألانين،آرجنين،غلايسين،هستيدين،لوسين،لايسين،حمض الماليك،ميثيونين،تايروسين،آلانين،برولين،سيرين،تاورين،ثريونين،تربتوفان،فالين"
+    },
+    {
+        "id": 308,
+        "link": "Acetylcysteine, hydroxypropyl methylcellulose",
+        "type": "أستيل سيستين، هيدروكسي بروبيل ميثيل سيليولوز"
+    },
+    {
+        "id": 309,
+        "link": "Acetyl-L-carnitine, co-enzyme q10, L-methionine, glutathione, lycopene",
+        "type": "استيل-ل-كارنيتين، كو انزيم كيو10، ل-ميثيونين، جلوتاثيون، ليكوبين"
+    },
+    {
+        "id": 310,
+        "link": "acetylcysteine, alanine, arginine, glycine, histidine, isoleucine, leucine lysine, methionine, n-glycyltyrosine,phenylalanine, proline,serine,threonine, tryptophan, tyrosine,valine",
+        "type": "أستيلسيستين،ألانين،آرجنين،غلايسين،هستيدين،لوسين،لايسين،ميثيونين،جليكوتايروسين،فينل آلانين،برولين،سيرين،ثريونين،تربتوفان،فالين،تايروسين"
+    },
+    {
+        "id": 311,
+        "link": "astemizole",
+        "type": "أستيميزول"
+    },
+    {
+        "id": 312,
+        "link": "Isradipine",
+        "type": "اسرادبين"
+    },
+    {
+        "id": 313,
+        "link": "Eszopiclone",
+        "type": "إسزوبكلون"
+    },
+    {
+        "id": 314,
+        "link": "Ferrous Ascorbate",
+        "type": "اسكوربات الحديدوز"
+    },
+    {
+        "id": 315,
+        "link": "Esmolol",
+        "type": "اسمولول"
+    },
+    {
+        "id": 316,
+        "link": "asiaticoside, cetrimide, chamazulene, madecassoside, panthenol",
+        "type": "أسياتيكوزيد، سيتريميد، كامآزولين، ماديكاسوسايد، بانثينول"
+    },
+    {
+        "id": 317,
+        "link": "asiaticoside, chamazulene, levomenol, madecassoside, panthenol",
+        "type": "أسياتيكوزيد، كامآزولين، ليفومينول (بيسابولول)، ماديكاسوسايد، بانثينول"
+    },
+    {
+        "id": 318,
+        "link": "acebutolol",
+        "type": "اسيبيوتلول"
+    },
+    {
+        "id": 319,
+        "link": "Aluminum Acetate",
+        "type": "أسيتات الألمنيوم"
+    },
+    {
+        "id": 320,
+        "link": "Aluminum acetate, hydrocortisone acetate, lidocaine, zinc oxide",
+        "type": "أسيتات الألمنيوم، أسيتات الهيدروكورتيزون، ليدوكين، أكسيد الزنك"
+    },
+    {
+        "id": 321,
+        "link": "Potassium Acetate",
+        "type": "اسيتات البوتاسيوم"
+    },
+    {
+        "id": 322,
+        "link": "Potassium Acetate, Potassium Bicarbonate, Potassium Citrate",
+        "type": "اسيتات البوتاسيوم، بيكربونات البوتاسيوم، سترات البوتاسيوم"
+    },
+    {
+        "id": 323,
+        "link": "Zinc Acetate",
+        "type": "أسيتات الزنك"
+    },
+    {
+        "id": 324,
+        "link": "Sodium acetate",
+        "type": "اسيتات الصوديوم"
+    },
+    {
+        "id": 325,
+        "link": "Calcium acetate, Magnesium carbonate",
+        "type": "أسيتات الكالسيوم، كربونات المغنيسيوم"
+    },
+    {
+        "id": 326,
+        "link": "Cortisone Acetate",
+        "type": "أسيتات الكورتيزون"
+    },
+    {
+        "id": 327,
+        "link": "Levomethadyl Acetate",
+        "type": "اسيتات الليفوميثاديل"
+    },
+    {
+        "id": 328,
+        "link": "Megastrol acetate",
+        "type": "أسيتات الميجاسترول"
+    },
+    {
+        "id": 329,
+        "link": "Hydrocortisone acetate, neomycin sulphate",
+        "type": "أسيتات الهيدروكورتيزون، كبريتات النيوميسين"
+    },
+    {
+        "id": 330,
+        "link": "Hydrocortisone acetate, clioquinol",
+        "type": "أسيتات الهيدروكورتيزون، كليوكوينول"
+    },
+    {
+        "id": 331,
+        "link": "Ulipristal acetate",
+        "type": "أسيتات الوليبرستال"
+    },
+    {
+        "id": 332,
+        "link": "Acetazolamide",
+        "type": "اسيتازولامايد"
+    },
+    {
+        "id": 333,
+        "link": "escitalopram",
+        "type": "اسيتالوبرام"
+    },
+    {
+        "id": 334,
+        "link": "Acetaminophen, Aspirin",
+        "type": "اسيتامينوفين، اسبرين"
+    },
+    {
+        "id": 335,
+        "link": "Acetaminophen, Aspirin, Diphenhydramine",
+        "type": "اسيتامينوفين، أسبرين، دايفينهيدرامين"
+    },
+    {
+        "id": 336,
+        "link": "Acetaminophen, Aspirin, Phenylpropanolamine",
+        "type": "أسيتامينوفين، أسبرين، فينيل بروبانولامين"
+    },
+    {
+        "id": 337,
+        "link": "Acetaminophen, Aspirin, Caffeine, Salicylamide",
+        "type": "اسيتامينوفين، أسبرين، كافيين، ساليسيلاميد"
+    },
+    {
+        "id": 338,
+        "link": "Acetaminophen, Oxycodone",
+        "type": "أسيتامينوفين، أوكسيكودون"
+    },
+    {
+        "id": 339,
+        "link": "Acetaminophen, Pamabrom, Pyridoxine",
+        "type": "أسيتامينوفين، بامابروم، بايريدوكسين"
+    },
+    {
+        "id": 340,
+        "link": "Acetaminophen, Propoxyphene",
+        "type": "أسيتامينوفين، بروبوكسيفين"
+    },
+    {
+        "id": 341,
+        "link": "Acetaminophen, Brompheniramine",
+        "type": "أسيتامينوفين، برومفينيارمين"
+    },
+    {
+        "id": 342,
+        "link": "Acetaminophen, Brompheniramine, Dextromethorphan, Pseudoephedrine",
+        "type": "اسيتامينوفين، برومفينيرامين، ديكستروميتورفان، سودوإيفيدرين"
+    },
+    {
+        "id": 343,
+        "link": "Acetaminophen, Brompheniramine, Phenylpropanolamine",
+        "type": "اسيتامينوفين، برومفينيرامين، فينيل بروبانولامين"
+    },
+    {
+        "id": 344,
+        "link": "Acetaminophen, Pentazocine",
+        "type": "أسيتامينوفين، بنتازوسين"
+    },
+    {
+        "id": 345,
+        "link": "Acetaminophen, Benzhydrocodone",
+        "type": "أسيتامينوفين، بنزهيدروكودون"
+    },
+    {
+        "id": 346,
+        "link": "Acetaminophen, Butalbital",
+        "type": "أسيتامينوفين، بوتالبيتال"
+    },
+    {
+        "id": 347,
+        "link": "Acetaminophen, Pyrilamine",
+        "type": "أسيتامينوفين، بيريلامين"
+    },
+    {
+        "id": 348,
+        "link": "Acetaminophen, Guaifenesin",
+        "type": "أسيتامينوفين، جوافينيسين"
+    },
+    {
+        "id": 349,
+        "link": "Acetaminophen, Guaifenesin, Pseudoephedrine",
+        "type": "أسيتامينوفين، جوافينيسين، سودوافدرين"
+    },
+    {
+        "id": 350,
+        "link": "Acetaminophen, Diphenhydramine",
+        "type": "أسيتامينوفين , دايفينهيدرامين ."
+    },
+    {
+        "id": 351,
+        "link": "Acetaminophen, Dextromethorphan, Doxylamine, Guaifenesin, Phenylephrine",
+        "type": "اسيتامينوفين، دكسترومثورفان، دوكسيلامين، جوافينيسين، فينيلفرين"
+    },
+    {
+        "id": 352,
+        "link": "Acetaminophen, Dextromethorphan, Doxylamine, Pseudoephedrine",
+        "type": "اسيتامينوفين، دكسترومثورفان، دوكسيلامين، سودوافدرين"
+    },
+    {
+        "id": 353,
+        "link": "Acetaminophen, Dextromethorphan, Doxylamine, Phenylephrine",
+        "type": "اسيتامينوفين، دكسترومثورفان، دوكسيلامين، فينيلفرين"
+    },
+    {
+        "id": 354,
+        "link": "Acetaminophen, Dextromethorphan, Diphenhydramine, Phenylephrine",
+        "type": "اسيتامينوفين، دكسترومثورفان، ديفينهيدرامين، فينيلفرين"
+    },
+    {
+        "id": 355,
+        "link": "Acetaminophen, Doxylamine, Pseudoephedrine",
+        "type": "أسيتامينوفين، دوكسيلامين، سودوافدرين"
+    },
+    {
+        "id": 356,
+        "link": "Acetaminophen, Doxylamine, Phenylephrine",
+        "type": "أسيتامينوفين، دوكسيلامين، فينيل افرين"
+    },
+    {
+        "id": 357,
+        "link": "Acetaminophen, Diphenhydramine, Guaifenesin, Phenylephrine",
+        "type": "أسيتامينوفين، ديفينهيدرامين، جوافينيزين، فينيل افرين"
+    },
+    {
+        "id": 358,
+        "link": "Acetaminophen, Diphenhydramine, Phenylephrine",
+        "type": "أسيتامينوفين، ديفينهيدرامين، فينيل افرين"
+    },
+    {
+        "id": 359,
+        "link": "Acetaminophen, Dexbrompheniramine",
+        "type": "أسيتامينوفين، ديكسبرومفينيرامين"
+    },
+    {
+        "id": 360,
+        "link": "Acetaminophen, Dexbrompheniramine, Pseudoephedrine",
+        "type": "أسيتامينوفين، ديكسبرومفينيرامين، سودوإيفيدرين"
+    },
+    {
+        "id": 361,
+        "link": "Acetaminophen, Dextromethorphan, Phenylpropanolamine",
+        "type": "اسيتامينوفين، ديكستروميتورفان، فينيل بروبانولامين"
+    },
+    {
+        "id": 362,
+        "link": "Acetaminophen, dextromethorphan, phenylephrine",
+        "type": "اسيتامينوفين، ديكستروميتورفان، فينيليفرين"
+    },
+    {
+        "id": 363,
+        "link": "Acetaminophen, Dextromethorphan, Phenylephrine, Triprolidine",
+        "type": "اسيتامينوفين، ديكستروميتورفان، فينيليفرين، تريبروليدين"
+    },
+    {
+        "id": 364,
+        "link": "Acetaminophen, Dextromethorphan",
+        "type": "أسيتامينوفين، ديكستروميثورفان"
+    },
+    {
+        "id": 365,
+        "link": "Acetaminophen, Dextromethorphan, Triprolidine",
+        "type": "اسيتامينوفين، ديكستروميثورفان، ترايبروليدين"
+    },
+    {
+        "id": 366,
+        "link": "Acetaminophen, Dextromethorphan, Guaifenesin, Oxymetazoline, Phenylephrine",
+        "type": "أسيتامينوفين، ديكستروميثورفان، جوافينيسين، أوكسي ميتازولين، فينيليفرين"
+    },
+    {
+        "id": 367,
+        "link": "Acetaminophen, Dextromethorphan, Guaifenesin, Triprolidine",
+        "type": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، تريبروليدين"
+    },
+    {
+        "id": 368,
+        "link": "Acetaminophen, Dextromethorphan, Guaifenesin, Phenylpropanolamine",
+        "type": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، فينيل بروبانولامين"
+    },
+    {
+        "id": 369,
+        "link": "Acetaminophen, Dextromethorphan, Guaifenesin, Phenylephrine, Triprolidine",
+        "type": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، فينيليفرين، تريبروليدين"
+    },
+    {
+        "id": 370,
+        "link": "Acetaminophen, Dextromethorphan, Guaifenesin, Phenylephrine",
+        "type": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، وفينيليفرين"
+    },
+    {
+        "id": 371,
+        "link": "Acetaminophen, Dextromethorphan, Diphenhydramine",
+        "type": "أسيتامينوفين، ديكستروميثورفان، دايفنهيدرامين"
+    },
+    {
+        "id": 372,
+        "link": "Acetaminophen, Dextromethorphan, Diphenhydramine, Guaifenesin, Phenylephrine",
+        "type": "أسيتامينوفين، ديكستروميثورفان، دايفنهيدرامين، جوافينيسين، فينيل افرين"
+    },
+    {
+        "id": 373,
+        "link": "Acetaminophen, Dextromethorphan, Pseudoephedrine, Pyrilamine",
+        "type": "اسيتامينوفين، ديكستروميثورفان، سودوإيفيدرين، بيريلامين"
+    },
+    {
+        "id": 374,
+        "link": "Acetaminophen, Dichloralphenazone, Isometheptene mucate",
+        "type": "أسيتامينوفين، ديكلورالفينازون، ميوكات إيزوميثيبتين"
+    },
+    {
+        "id": 375,
+        "link": "Acetaminophen, Magnesium salicylate",
+        "type": "أسيتامينوفين، ساليسيلات المغنيسيوم"
+    },
+    {
+        "id": 376,
+        "link": "Acetaminophen, Magnesium salicylate, Pamabrom",
+        "type": "أسيتامينوفين، ساليسيلات المغنيسيوم، بامابروم"
+    },
+    {
+        "id": 377,
+        "link": "Acetaminophen, Pheniramine, Phenylephrine",
+        "type": "أسيتامينوفين، فينيرامين، فينيل إفرين"
+    },
+    {
+        "id": 378,
+        "link": "Acetaminophen, Phenyltoloxamine",
+        "type": "أسيتامينوفين، فينيل تولوكسامين"
+    },
+    {
+        "id": 379,
+        "link": "Acetaminophen, Phenyltoloxamine, Salicylamide",
+        "type": "أسيتامينوفين، فينيل تولوكسامين، ساليسيلاميد"
+    },
+    {
+        "id": 380,
+        "link": "Acetaminophen, Caffeine, Isometheptene Mucate",
+        "type": "أسيتامينوفين، كافيين، أيزوميثيبتين ميوكات"
+    },
+    {
+        "id": 381,
+        "link": "Acetaminophen, Caffeine, Pyrilamine",
+        "type": "اسيتامينوفين، كافيين، بيريلامين"
+    },
+    {
+        "id": 382,
+        "link": "Acetaminophen, Caffeine, Dihydrocodeine",
+        "type": "أسيتامينوفين، كافيين، ثنائي هيدروكودايين"
+    },
+    {
+        "id": 383,
+        "link": "Acetaminophen, Caffeine, Guaifenesin, Phenylephrine",
+        "type": "أسيتامينوفين، كافيين، جوافينيسين، فينيليفرين"
+    },
+    {
+        "id": 384,
+        "link": "Acetaminophen, Caffeine, Magnesium Salicylate, Phenyltoloxamine",
+        "type": "أسيتامينوفين، كافيين، ساليسيلات المغنيسوم، فينيل تولوكسامين"
+    },
+    {
+        "id": 385,
+        "link": "Acetaminophen, Caffeine, Magnesium Salicylate",
+        "type": "أسيتامينوفين، كافيين، ساليسيلات المغنيسيوم"
+    },
+    {
+        "id": 386,
+        "link": "Acetaminophen, Caffeine, Phenylpropanolamine, Salicylamide",
+        "type": "اسيتامينوفين، كافيين، فينيل بروبانولامين، ساليسيلاميد"
+    },
+    {
+        "id": 387,
+        "link": "Acetaminophen, Caffeine, Phenyltoloxamine",
+        "type": "اسيتامينوفين، كافيين، فينيل تولوكسامين"
+    },
+    {
+        "id": 388,
+        "link": "Acetaminophen, Caffeine, Phenyltoloxamine, Salicylamide",
+        "type": "اسيتامينوفين، كافيين، فينيل تولوكسامين، ساليسيلاميد"
+    },
+    {
+        "id": 389,
+        "link": "Acetaminophen, Caffeine, Chlorpheniramine, Hydrocodone, Phenylephrine",
+        "type": "اسيتامينوفين، كافيين، كلورفينيرامين، هيدروكودون، فينيليفرين"
+    },
+    {
+        "id": 390,
+        "link": "Acetaminophen, Chlorpheniramine, Phenylephrine, Salicylamide",
+        "type": "اسيتامينوفين، كلورفينرامين، فينيل افرين، ساليسيلاميد"
+    },
+    {
+        "id": 391,
+        "link": "Acetaminophen, Chlorpheniramine, Phenylpropanolamine",
+        "type": "اسيتامينوفين، كلورفينرامين، فينيل بروبانولامين"
+    },
+    {
+        "id": 392,
+        "link": "Acetaminophen, Chlorpheniramine",
+        "type": "أسيتامينوفين، كلورفينيرامين"
+    },
+    {
+        "id": 393,
+        "link": "Acetaminophen, Chlorpheniramine, Guaifenesin, Phenylpropanolamine",
+        "type": "أسيتامينوفين، كلورفينيرامين، جوايفينيزين، فينيل بروبانولامين"
+    },
+    {
+        "id": 394,
+        "link": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Phenylpropanolamine",
+        "type": "أسيتامينوفين، كلورفينيرامين، دكسترومثورفان، فينيل بروبانولامين"
+    },
+    {
+        "id": 395,
+        "link": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Phenylephrine",
+        "type": "أسيتامينوفين، كلورفينيرامين، دكسترومثورفان، فينيليفرين"
+    },
+    {
+        "id": 396,
+        "link": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Guaifenesin",
+        "type": "أسيتامينوفين، كلورفينيرامين، ديكستروميثورفان، جوافينيسين"
+    },
+    {
+        "id": 397,
+        "link": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Guaifenesin, Phenylephrine",
+        "type": "أسيتامينوفين، كلورفينيرامين، ديكستروميثورفان، جوافينيسين، فينيل افرين"
+    },
+    {
+        "id": 398,
+        "link": "Acetaminophen, Chlorpheniramine, Phenylephrine, Phenylpropanolamine, Pyrilamine",
+        "type": "أسيتامينوفين، كلورفينيرامين، فينيل افرين، فينيل بروبانولامين، بيريلامين"
+    },
+    {
+        "id": 399,
+        "link": "Acetaminophen, Chlorpheniramine, Phenylephrine, Phenyltoloxamine",
+        "type": "أسيتامينوفين، كلورفينيرامين، فينيليفرين، فينيلتولوكسامين"
+    },
+    {
+        "id": 400,
+        "link": "Acetaminophen, Chlorpheniramine, Codeine",
+        "type": "أسيتامينوفين، كلورفينيرامين، كودايين"
+    }
+]
