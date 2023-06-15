@@ -19,7 +19,7 @@ const Alaj = () => {
           post.slice(0,n).map((el)=>(
             <div key={el.id} dir='rtl' className='illness alaj-api'>
               <div className='item-illness'>
-                <a href={`/components/alaj/${el.id}`}><div className='id-index'><p>{el.id+1}</p><span>-</span> <h3>{el.type}</h3></div></a>
+                <Link href={`/components/alaj/${el.id}`}><div className='id-index'><p>{el.id+1}</p><span>-</span> <h3>{el.type}</h3></div></Link>
                 {/* <p>{el.link}</p> */}
               
             </div>
