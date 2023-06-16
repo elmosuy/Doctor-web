@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import data from "../../api/links.json"
+import data from "../../api/links2.json"
 import Link from 'next/link'
 
 const Alaj = () => {
