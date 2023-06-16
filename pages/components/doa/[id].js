@@ -9,8 +9,8 @@ export default function Alaj() {
     const router = useRouter()
     const { id } = router.query
 
-  var data_filter = data.filter((element) => element.id == id||1);
-  var data_fil = data2.filter((element) => element.index == id||1);
+  var data_filter = data.filter((element) => element.id == id);
+  var data_fil = data2.filter((element) => element.index == id);
 
   return (
     <div  className='alaj' >
