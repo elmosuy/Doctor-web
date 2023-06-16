@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import dataSearch from "../api/links.json"
+import dataSearch from "../api/links2.json"
 import Link from 'next/link';
 
 
