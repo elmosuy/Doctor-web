@@ -4,6 +4,10 @@ import React from 'react'
 import Search from './components/search'
 
 const Layout = ({children}) => {
+  const handelremove = () => {
+    const search = document.getElementById("searcher");
+    search.classList.remove("show-search");
+  };
   const handeldark=()=>{
     const dark=document.body;
     dark.classList.toggle("dark")
@@ -16,6 +20,7 @@ const Layout = ({children}) => {
     const head=document.getElementById("header")
     head.classList.remove("show-header")
   }
+
   return (
     <div>
       <Head>
@@ -32,11 +37,11 @@ const Layout = ({children}) => {
                     <Link href="/"><li>الصفحة الرئيسية</li></Link>
                     <Link href="/"><li>الجمال والولادة </li></Link>                
                     <Link href="/components/illness/"><li>الامراض</li></Link>
-                     <Link href={`/components/alaj`}><li>العلاج</li></Link>
+                    <Link href="/components/alaj"><li>العلاج</li></Link>
                     <Link href="/components/doa"><li>موسوعة الادوية</li></Link>
                     <Link href="/components/advice"><li> نصائح </li></Link>
                 </ul>
-              </div> <section className='head-leabl'><Search/>
+              </div> <section className='head-leabl'><Search />
               <label class="switch">
     <input type="checkbox" onClick={handeldark}/>
     <span class="slider"></span>
@@ -53,8 +58,9 @@ const Layout = ({children}) => {
 
 
      <div className='cheldren' onClick={handelHeaders}>
+      <span onClick={handelremove}>
                     {children}
-
+</span>
      </div>
        
     </div>
