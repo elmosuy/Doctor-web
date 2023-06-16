@@ -37,7 +37,7 @@ const Search = () => {
   {
     filteredData.map((el)=>(
       
-        <Link href={`/components/doa/${el.id}`}><div key={el.id} onClick={handelremove} className='search-item'><h2>{el.link}</h2> <p>{el.title}</p></div></Link>
+       <div key={el.id} > <Link href={`/components/doa/${el.id}`}><div onClick={handelremove} className='search-item'><h2>{el.link}</h2> <p>{el.title}</p></div></Link></div>
       
     ))
   }
