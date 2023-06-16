@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import React, { useEffect, useState } from 'react'
 import data from "../../api/datas.json"
 import data2 from "../../api/headers2.json"
 import { useRouter } from 'next/router'
