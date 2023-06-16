@@ -11,7 +11,13 @@ export default function Alaj() {
 
   var data_filter = data.filter((element) => element.id == id);
   var data_fil = data2.filter((element) => element.index == id);
-
+  useEffect(()=>{
+      if (data_filter.lenth<1&&data_fil.lenth<1){
+          console.log("loading....")
+      }
+          
+  },[])
+      
   return (
     <div  className='alaj' >
        <Link href="/components/doa"><span className='right' ><svg width="35px" height="40px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
