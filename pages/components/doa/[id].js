@@ -11,12 +11,7 @@ export default function Alaj() {
 
   var data_filter = data.filter((element) => element.id == id);
   var data_fil = data2.filter((element) => element.index == id);
-  useEffect(()=>{
-      if (data_filter.lenth<1&&data_fil.lenth<1){
-          console.log("loading....")
-      }
-          
-  },[])
+
       
   return (
     <div  className='alaj' >
