@@ -1,0 +1,2807 @@
+[
+    {
+        "index": 0,
+        "h1": "1;3-dimethylamine, myrtecaine, salicylic acid",
+        "h2": "1،3 ديميثيل أمين، ميريتيكان، حمض الساليسيليك",
+        "n2": "مضادات الالتهابات",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 1,
+        "h1": "propanol, chlorhexidine, hydrogen peroxide",
+        "h2": "بروبانول، الكلورهيكسيدين، بيروكسيد الهيروجين",
+        "n2": "الأدوية المطهرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 2,
+        "h1": "hexadecanol, ethanol, ceramide, glycerol, alumino silicate, paraffin oil",
+        "h2": "هيكساديكانول، إيثانول سيراميد، جليسيرول، ألومينوسيليكات، زيت البارافين",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 3,
+        "h1": "throat lozenges, 2;4-dichlorobenzyl alcohol, amylmetacresol",
+        "h2": "4-2دايكلوروبينزيل الكحول، أميل ميتاكريسول",
+        "n2": "الأدوية المطهرة",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 4,
+        "h1": "throat lozenges, 2;4-dichlorobenzyl alcohol, amylmetacresol",
+        "h2": "4-2دايكلوروبينزيل الكحول، أميل ميتاكريسول",
+        "n2": "الأدوية المطهرة",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 5,
+        "h1": "2-propanol, cetrimide, chlorhexidine",
+        "h2": "2- بروبانول، سيتريميد، كلورهيكسيدين",
+        "n2": "مضاد حيوي",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 6,
+        "h1": "2-propanol, aloe barbadensis, ethanol, glycerol, mentha piperita, propylene glycol",
+        "h2": "٢ بروبانولول صبار حقيقي ايثانول جليسيرول نعناع",
+        "n2": "الأدوية المطهرة",
+        "n3": "صحة عامة"
+    },
+    {
+        "index": 7,
+        "h1": "5- Hydroxytryptophan",
+        "h2": "5-هيدروكسيتريبتوفان",
+        "n2": "مضادات الاكتئاب",
+        "n3": "الطب البديل"
+    },
+    {
+        "index": 8,
+        "h1": "8-quinolinol, dl-lactic acid",
+        "h2": "8- كوينولينول، دل- حمض اللاكتيك",
+        "n2": "الأدوية المطهرة",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 9,
+        "h1": "8-quinolinol, menthol, tannin(s)",
+        "h2": "8- كوينولينول، مينثول، التانينات",
+        "n2": "الأدوية المطهرة",
+        "n3": "أمراض الفم"
+    },
+    {
+        "index": 10,
+        "h1": "D-polyglucosamine",
+        "h2": "d-جلوكوزأمين، n-أسيتيل-d-جلوكوزأمين",
+        "n2": "مستخلصات طبيعية",
+        "n3": "تغذية"
+    },
+    {
+        "index": 11,
+        "h1": "Hydroquinone, Vitamin C, Vitamin E, Citric acid, Benzoic acid, Uvinul, Glycerin",
+        "h2": "هيدروكينون، فيتامين سي، فيتامين هـ، حمض الستريك، حمض البنزويك، يوفينول، غليسرين",
+        "n2": "علاجات فرط التصبغ",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 12,
+        "h1": "Propolis, castor oil, olive oil",
+        "h2": "عكبر النحل، زيت الخروع، زيت الزيتون",
+        "n2": "مساعد التئام الجروح",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 13,
+        "h1": "arginine, fatty acid (unspecified), hydrocolloid",
+        "h2": "آرجنين، أحماض دهنية، هيدروكولويد",
+        "n2": "مكملات غذائية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 14,
+        "h1": "Perindopril Arginine",
+        "h2": "آرجنين البيريندوبريل",
+        "n2": "مثَبِّطُ الإِنْزيمُ المُحَوِّلُ للأَنْجِيوتَنْسين",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 15,
+        "h1": "arginine, panax ginseng, soya lecithin, triticum vulgare, zinc",
+        "h2": "آرجنين، جينسينج بانكس، ليسيثين الصويا، قمح طري، زنك",
+        "n2": "مكملات غذائية",
+        "n3": "الصحة الجنسية"
+    },
+    {
+        "index": 16,
+        "h1": "Arginine, Olea europea",
+        "h2": "آرجنين، زيتون",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 17,
+        "h1": "arginine, avena sativa, boron, capsicum, centella asiatica, eleutherococcus senticosus, ginkgo biloba picolinic acid, serenoa repens, smilax medica,turnera diffusa, urtica dioica,zingiber officinale",
+        "h2": "آرجنين، شوفان، بورون، الفلفل، سرة الأرض، جنسنج سيبيري، جنكة، حمض البيكولينيك، بلميط منشاري، فشاغ، دميانة، قراص كبير، زنجبيل",
+        "n2": "مكملات غذائية",
+        "n3": "صحة عامة"
+    },
+    {
+        "index": 18,
+        "h1": "Arginine, Vitamin e, Zinc",
+        "h2": "آرجنين، فيتامين هـ، زنك",
+        "n2": "عامل مطهر",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 19,
+        "h1": "Arginine, Nicotinamide",
+        "h2": "آرجنين، فيتامين ب3",
+        "n2": "مكملات غذائية",
+        "n3": "أمراض وجراحة الأوعية الدموية"
+    },
+    {
+        "index": 20,
+        "h1": "arginine, camphor, matricaria chamomilla, menthol, quercus robur",
+        "h2": "آرجنين، كافور، بابونج ألماني، مينثول، السنديان",
+        "n2": "مكملات غذائية",
+        "n3": "الصحة الجنسية"
+    },
+    {
+        "index": 21,
+        "h1": "arginine, camphor, glycerol, menthol",
+        "h2": "آرجنين، كافور، جليسيرول، مينثول",
+        "n2": "مستخلصات طبيعية",
+        "n3": "أمراض المسالك البولية والتناسلية"
+    },
+    {
+        "index": 22,
+        "h1": "arginine, caffeine, ginkgo biloba, isopropyl myristate, levocarnitine, lidocaine, menthol panax ginseng, panthenol",
+        "h2": "آرجنين، كافيين، جنكة، ميريستات الإيزوبروبيل، ليفوكارنتين، ليدوكائين، مينثول، جنسينج بانكس، بانثينول",
+        "n2": "مكملات غذائية",
+        "n3": "الصحة الجنسية"
+    },
+    {
+        "index": 23,
+        "h1": "arginine, armeniaca vulgaris, ginkgo biloba, glycerol, panthenol, rosmarinus officinalis, aloe barbadensis",
+        "h2": "آرجنين، مشمش، جنكة، جليسيرول، بانثينول، إكليل الجبل، صبر حقيقي",
+        "n2": "مكملات غذائية",
+        "n3": "الصحة الجنسية"
+    },
+    {
+        "index": 24,
+        "h1": "Arginine, Menthol",
+        "h2": "آرجنين، مينثول",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 25,
+        "h1": "argania spinosa, citrus limonum, gelsemium sempervirens, glycerol, jojoba oil, olea europea, sulfur",
+        "h2": "آرغان، ليمون، ياسمين أصفر، جليسيرول، زيت الجوجوبا، زيتون، كبريت",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 26,
+        "h1": "Acepromazine",
+        "h2": "آسيبرومازين (ACE)",
+        "n2": "مضاد الذهان",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 27,
+        "h1": "Avanafil",
+        "h2": "آفانافيل",
+        "n2": "مقويات جنسية",
+        "n3": "صحة الرجل"
+    },
+    {
+        "index": 28,
+        "h1": "Aconitinum Dil, Atropinum Sulfuricum, Mercurius Cyanatus",
+        "h2": "آقونيطن، آتروبين، ميرسوريوس سولوبوليس",
+        "n2": "مستخلصات طبيعية",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 29,
+        "h1": "allantoin, avena sativa, hypericum perforatum, melaleuca alternifolia, propolis, salvia officinalis",
+        "h2": "آلانتوين، الشوفان، العرن المثقوب، شجرة الشاي، العكبر، مريمية",
+        "n2": "مضاد الفطريات",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 30,
+        "h1": "allantoin, aluminium, calcium, dexpanthenol, magnesium, pyridoxine, retinol sodium, vitamin e, wool fat",
+        "h2": "آلانتوين، ألمنيوم، كالسيوم، ديكسبانثينول، مغنيسيوم، ب6، ريتينول، صوديوم، فيتامين هـ، لانولين",
+        "n2": "مستخلصات طبيعية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 31,
+        "h1": "Allantoin, allium cepa, ascorbic acid, betacarotene, calendula officinalis, echinacea pallida, glycyrrhiza",
+        "h2": "آلانتوين، أليوم سيبا، حمض اسكوربيك، بيتا كاروتين، كاليندولا أوفيشينالس، إشينسا باليدا، عرق سوس",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 32,
+        "h1": "allantoin, allium cepa, aloe barbadensis, arginine, calendula officinalis, elastin, jojoba oil matricaria chamomilla, panthenol, propolis,silicone oil",
+        "h2": "آلانتوين، بصل، صبر حقيقي، آرجينين، البكورية الطبية، إلاستين، زيت الجوجوبا، بابونج ألماني، بانثينول، عكبر، زيت السيليكون",
+        "n2": "مستخلصات طبيعية",
+        "n3": "صحة عامة"
+    },
+    {
+        "index": 33,
+        "h1": "Extractum cepae, Heparin, Allantoin",
+        "h2": "ألانتوين، هيبارين، خلاصة البصل",
+        "n2": "مساعد التئام الجروح",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 34,
+        "h1": "allantoin, calendula officinalis, glycerol, matricaria chamomilla, panthenol, paraffin oil",
+        "h2": "آلانتوين، بكورية طبية، جليسيرول، بابونج ألماني، بانثينول، زيت البارافين",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 35,
+        "h1": "allantoin, calendula officinalis, glycerol, matricaria chamomilla, melaleuca alternifolia, olea europea, panthenol zinc",
+        "h2": "آلانتوين، بكورية طبية، جليسيرول، بابونج ألماني، شجرة الشاي، الزيتون، بانثينول، زنك",
+        "n2": "مستخلصات طبيعية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 36,
+        "h1": "allantoin, calendula officinalis, honey, jojoba oil, olea europea, panthenol, propolis prunus amygdalus (dulcis), urea, vitamin e,yellow beeswax",
+        "h2": "آلانتوين بكورية طبية عسل زيت الجوجوبا الزيتون",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 37,
+        "h1": "allantoin, glycerol, panthenol, prunus amygdalus (dulcis)",
+        "h2": "آلانتوين، جليسيرول، بانثينول، لوز حلو",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 38,
+        "h1": "allantoin, glycerol, olea europea, panthenol, paraffin oil, zinc",
+        "h2": "آلانتوين، جليسيرول، زيتون، بانثينول، زيت البارافين، زنك",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 39,
+        "h1": "allantoin, glycerol, olea europea, panthenol, paraffin oil, wool fat, yellow beeswax zinc",
+        "h2": "آلانتوين، جليسيرول، زيتون، بانثينول، زيت البارافين، لانولين، شمع العسل الأصفر، زنك",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 40,
+        "h1": "allantoin, salicylic acid, triclosan, zinc",
+        "h2": "آلانتوين، حمض الساليساليك، تريكلوزان، زنك",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 41,
+        "h1": "allantoin, diazolidinyl urea, dimeticone, levomenol, menthol, panthenol, salicylic acid",
+        "h2": "آلانتوين، دايازوليدينيل يوريا، ديميتيكون، ليفومينول، مينثول، بانثينول، حمض الساليساليك",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 42,
+        "h1": "allantoin, dexpanthenol, olea europea, paraffin oil, titanium, triticum vulgare, zinc",
+        "h2": "آلانتوين، ديكسابانثينول، زيتون، زيت البارافين، تيتانيوم، قمح الخبز، زنك",
+        "n2": "مستخلصات طبيعية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 43,
+        "h1": "allantoin, dimeticone, matricaria chamomilla, olea europea, panthenol, vitamin e, wool fat zinc",
+        "h2": "آلانتوين، ديميتيكون، البابونج الألماني، الزيتون، البانثينول، فيتامين هـ، لانولين، زنك",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 44,
+        "h1": "allantoin, dimeticone, glycerol, levomenol, panthenol, prunus amygdalus (amara)",
+        "h2": "آلانتوين، ديميتيكون، جليسيرول، ليفومينول، بانثينول، اللوز المر",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 45,
+        "h1": "Allantoin, Resorcinol, Zinc",
+        "h2": "آلانتوين، ريزورسينول، زنك",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 46,
+        "h1": "Allantoin, aloe vera, sodium hydroxide, irgasan, paraffin oil, titanium dioxide, vitamin e",
+        "h2": "آلانتوين، صبار، هيدروكسيد الصوديوم، إرجازان، زيت البارافين، ثاني أكسيد التيتانيوم، فيتامين هـ",
+        "n2": "مضاد للجراثيم",
+        "n3": "أدوية"
+    },
+    {
+        "index": 47,
+        "h1": "allantoin, arctium lappa, matricaria chamomilla, rosa canina, thymol, triclosan",
+        "h2": "آلانتوين، صبر حقيقي، أحادي إيثان الكوكاميدوبروبيل البيتانأميد، جليسيرول، عرق السوس، شجرة الشاي، ريتينول، حمض الساليساليك، تيتانيوم، تريكلوزان، فيتامين إي، زنك",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 48,
+        "h1": "allantoin, aloe barbadensis, calendula officinalis, cod liver oil, matricaria chamomilla, propolis, salicylic acid",
+        "h2": "آلانتوين، صبر حقيقي، البكورية الطبية، زيت كبد القد، بابونج ألماني، عكبر، حمض الساليساليك",
+        "n2": "مستخلصات طبيعية",
+        "n3": "صحة عامة"
+    },
+    {
+        "index": 49,
+        "h1": "allantoin, aloe barbadensis, calendula officinalis, echinacea angustifolia, glycyrrhiza glabra, olea europea, panthenol propolis, retinol, salicylic acid,squalane, zinc",
+        "h2": "آلانتوين، صبر حقيقي، البكورية الطبية، قنفذية رفيعة الأوراق، عرق السوس، زيتون، بانثينول، عكبر، ريتينول، حمض الساليساليك، سيكوالين، زنك",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 50,
+        "h1": "allantoin, aloe barbadensis, carica papaya, cyclopentasiloxane, matricaria chamomilla, panax ginseng, titanium vitamin e, zinc",
+        "h2": "آلانتوين، صبر حقيقي، ببايا، البينتوسيلوكزان الحلقي، بابونج ألماني، جنسينج باناكس، تيتانيوم، فيتامين هـ، زنك",
+        "n2": "مستخلصات طبيعية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 51,
+        "h1": "allantoin, aloe barbadensis, carica papaya, dimeticone, glycerol, honey, panthenol vitamin e, zinc",
+        "h2": "آلانتوين، صبر حقيقي، ببايا، ديميتيكون، جليسيرول، عسل، بانثينول، فيتامين هـ، زنك",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 52,
+        "h1": "allantoin, aloe barbadensis, calendula officinalis, propolis, ricinus communis, silicone oil, vitamin e",
+        "h2": "آلانتوين، صبر حقيقي، بكورية طبية، عكبر، خروع، زيت السيليكون، فيتامين هـ",
+        "n2": "مستخلصات طبيعية",
+        "n3": "أعشاب طبية"
+    },
+    {
+        "index": 53,
+        "h1": "allantoin, aloe barbadensis, cetrimide, melaleuca alternifolia, panthenol, resorcinol, salicylic acid vitamin e, zinc",
+        "h2": "آلانتوين، صبر حقيقي، سيتريميد، شجرة الشاي، بانثينول، ريزورسينول، حمض الساليساليك، فيتامين هـ، زنك",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 54,
+        "h1": "allantoin, aloe barbadensis, camellia sinensis, glycerol, melaleuca alternifolia, triclosan",
+        "h2": "آلانتوين، صبر حقيقي، شاي أخضر، جليسيرول، شجرة الشاي ، تريكلوزان",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 55,
+        "h1": "Erorr"
+    },
+    {
+        "index": 56,
+        "h1": "allantoin, aloe barbadensis, melaleuca alternifolia, propylene glycol, pyrithione zinc, rosmarinus officinalis, thymus vulgare",
+        "h2": "آلانتوين، صبر حقيقي، شجرة الشاي، بروبلين جليكول، بايريثيون الزنك، إكليل الجبل، زعتر شائع",
+        "n2": "مستخلصات طبيعية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 57,
+        "h1": "allantoin, aloe barbadensis, melaleuca alternifolia, paraffin oil, vitamin e, wool fat",
+        "h2": "آلانتوين، صبر حقيقي، شجرة الشاي، زيت البارافين، فيتامين هـ، اللانولين",
+        "n2": "مساعد التئام الجروح",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 58,
+        "h1": "allantoin, aloe barbadensis, lavandula angustifolia, matricaria chamomilla, panthenol",
+        "h2": "آلانتوين، صبر حقيقي، ضرم ضيق الأوراق، بابونج ألماني، بانتوثينيل",
+        "n2": "مساعد التئام الجروح",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 59,
+        "h1": "allantoin, aloe barbadensis, ascorbic acid, cacao butter, olea europea, panthenol, vitamin e",
+        "h2": "آلانتوين، صبر حقيقي، فيتامين سي، زبدة الكاكاو، زيتون، بانثينول، فيتامين هـ",
+        "n2": "مساعد التئام الجروح",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 60,
+        "h1": "allantoin, aloe barbadensis, camellia sinensis, dimeticone, glycerol, glycolic acid, olea europea panthenol, paraffin oil, retinol,salicylic acid, triclosan,vitamin e,zinc",
+        "h2": "آلانتوين، صبر، شاي أخضر، ديميتيكون، جليسيرول، حمض الجلايكوليك، زيتون، بانثينول، البارافين، حمض الساليساليك، تريكلوزان، فيتامين (أ، هـ)، زنك",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 61,
+        "h1": "Allantoin, aloe barbadensis, cocamidopropyl betainamide monoethan, glycerol, glycyrrhiza glabra, melaleuca alternifolia, retinol salicylic acid, titanium, triclosan,vitamin e, zinc",
+        "h2": "آلانتوين صبر كوكاميد بروبيل بيتاناميد جليسيرول عرق",
+        "n2": "أدوية حب الشباب",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 62,
+        "h1": "Allantoin, honey, nasturtium officinale, olea europea, prunus amygdalus (amara), vitamin e",
+        "h2": "آلانتوين، عسل، جرجير الماء، زيتون، لوز مر، فيتامين هـ",
+        "n2": "مكملات غذائية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 63,
+        "h1": "Allantoin, honey, nigella sativa, propolis, yellow beeswax, zinc",
+        "h2": "آلانتوين عسل حبة البركة عكبر شمع العسل الاصفر زنك",
+        "n2": "مستخلصات طبيعية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 64,
+        "h1": "allantoin, chlorhexidine, ethanol, limonene, menthol, panthenol",
+        "h2": "آلانتوين، كلورهيكسيدين، إيثانول، لايمونين، مينثول، بانثينول",
+        "n2": "عامل مطهر",
+        "n3": "مرض السكري"
+    },
+    {
+        "index": 65,
+        "h1": "allantoin, climbazole, jojoba oil, melaleuca alternifolia, piroctone, salicylic acid, thymus vulgare",
+        "h2": "آلانتوين، كليمبازول، زيت الجوجوبا، شجرة الشاي، بيريكتون، حمض الساليساليك، زعتر شائع",
+        "n2": "مستخلصات طبيعية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 66,
+        "h1": "Alprostadil",
+        "h2": "آلبروستاديل",
+        "n2": "البروستاغلاندين",
+        "n3": "الأمراض الجنسية"
+    },
+    {
+        "index": 67,
+        "h1": "aescine, diethylamine salicylate, heparinoid",
+        "h2": "آيسين، ثنائي إيثيل الأمين ساليسيلات، الهيبارينويد",
+        "n2": "مضاد التخثر",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 68,
+        "h1": "Abatacept",
+        "h2": "أباتاسيبت",
+        "n2": "عامل لكبت المناعة",
+        "n3": "علم المناعة"
+    },
+    {
+        "index": 69,
+        "h1": "Upadacitinib",
+        "h2": "اباداسيتنيب",
+        "n2": "مضادات الروماتزم المعدلة للمرض",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 70,
+        "h1": "Abarelix",
+        "h2": "اباريليكس",
+        "n2": "نظير للهرمون المُطلِق لموجهَة الغدد التناسلية",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 71,
+        "h1": "Abacavir",
+        "h2": "اباكافير",
+        "n2": "مضادات الفيروسات",
+        "n3": "علم المناعة"
+    },
+    {
+        "index": 72,
+        "h1": "Abacavir, lamivudine",
+        "h2": "أباكافير، لاميفودين",
+        "n2": "مضادات الفيروسات",
+        "n3": "علم المناعة"
+    },
+    {
+        "index": 73,
+        "h1": "Abacavir , Lamivudine , Zidovudine",
+        "h2": "اباكافير و لاميفودين و زيدوفودين",
+        "n2": "مضادات الفيروسات",
+        "n3": "علم المناعة"
+    },
+    {
+        "index": 74,
+        "h1": "Abaloparatide",
+        "h2": "أبالوباراتيد",
+        "n2": "نظير الهرمون جار الدرقي",
+        "n3": "صحة المرأة"
+    },
+    {
+        "index": 75,
+        "h1": "Apalutamide",
+        "h2": "ابالوتاميد",
+        "n2": "مضاد الأندروجين",
+        "n3": "أدوية"
+    },
+    {
+        "index": 76,
+        "h1": "Abametapir",
+        "h2": "اباميتابير",
+        "n2": "مبيدات الجرب ومبيدات القمل",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 77,
+        "h1": "eptifibatide",
+        "h2": "ابتيفيباتيد",
+        "n2": "مضاد التخثر",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 78,
+        "h1": "Eptinezumab",
+        "h2": "إبتينيزوماب",
+        "n2": "علاجات الشقيقة",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 79,
+        "h1": "Ipratropium Bromide",
+        "h2": "ابراتروبيوم",
+        "n2": "الأدوية الموسعة للقصبات الهوائية",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 80,
+        "h1": "Ipratropium Bromide, Fenoterol HBr",
+        "h2": "ابراتروبيوم بروميد فينوتيرول هيدروبروميد",
+        "n2": "الأدوية الموسعة للقصبات الهوائية",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 81,
+        "h1": "Apraclonidine",
+        "h2": "أبراكلونديد",
+        "n2": "أدوية معالجة الزرق",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 82,
+        "h1": "Cortisone injection",
+        "h2": "ابرة الكورتيزون",
+        "n2": "كورتيكوستيرويد",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 83,
+        "h1": "Abarelix",
+        "h2": "أبرليكس",
+        "n2": "مناهض إفراز هرمون موجهة للغدد التناسلية",
+        "n3": "أمراض المسالك البولية والتناسلية"
+    },
+    {
+        "index": 84,
+        "h1": "Aprotinin",
+        "h2": "أبروتينين",
+        "n2": "مضاد حل الفبرين",
+        "n3": "جراحة القلب والشرايين"
+    },
+    {
+        "index": 85,
+        "h1": "Eprosartan",
+        "h2": "ابروسارتان",
+        "n2": "حاصرات  مستقبلات الأنجيوتنسين 2",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 86,
+        "h1": "eprosartan, hydrochlorothiazide",
+        "h2": "ابروسارتان هيدروكلوروثيازيد",
+        "n2": "حاصرات مستقبلات الأنجيوتنسين و مدرات البول (ثيازيد )",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 87,
+        "h1": "Aprepitant",
+        "h2": "ابريبيتانت",
+        "n2": "مضادات التقيؤ",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 88,
+        "h1": "ipriflavone",
+        "h2": "ابريفلافون",
+        "n2": "مستخلصات طبيعية",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 89,
+        "h1": "apremilast",
+        "h2": "ابريميلاست",
+        "n2": "مضادات الالتهابات",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 90,
+        "h1": "Abciximab",
+        "h2": "ابسيكسيماب",
+        "n2": "مضاد وحيد النسيلة",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 91,
+        "h1": "Eplerenone",
+        "h2": "ابليرينون",
+        "n2": "مضاد الألدوستيرون",
+        "n3": "أمراض الغدد الصماء"
+    },
+    {
+        "index": 92,
+        "h1": "Epinephrine",
+        "h2": "ابينفرين",
+        "n2": "الأدوية الموسعة للقصبات الهوائية",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 93,
+        "h1": "Apomorphine",
+        "h2": "ابومورفين",
+        "n2": "علاجات الباركنسون",
+        "n3": "أمراض نفسية"
+    },
+    {
+        "index": 94,
+        "h1": "apigenin, carvacrol, carvone, chamazulene, cymene, d-fenchone, jasmone levomenol, piperitone, rosmarinus officinalis,terpin hydrate",
+        "h2": "أبيجينين، كارفاكرول، كارفون، كمازولين، سايمين، د-فينشون، جاسمون، ليفومينول، بيبيريتون، إكليل الجبل، هيدريت التيربين",
+        "n2": "عامل مطهر",
+        "n3": "أمراض المسالك البولية والتناسلية"
+    },
+    {
+        "index": 95,
+        "h1": "Abiraterone Acetate",
+        "h2": "ابيراتيرون اسيتات",
+        "n2": "مضاد الأندروجين",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 96,
+        "h1": "Eperisone",
+        "h2": "ابيريسون",
+        "n2": "مضاد للتشنج",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 97,
+        "h1": "Apixaban",
+        "h2": "أبيكسبان",
+        "n2": "مضاد التخثر",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 98,
+        "h1": "epinastine",
+        "h2": "ابيناستين",
+        "n2": "مضاد الهيستامين",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 99,
+        "h1": "Epinephrine, Etidocaine",
+        "h2": "ابينفرين، اتيدوكائين",
+        "n2": "مخدر موضعي",
+        "n3": "تخدير"
+    },
+    {
+        "index": 100,
+        "h1": "Epinephrine, Prilocaine",
+        "h2": "ابينفرين، بريلوكائين",
+        "n2": "مخدر موضعي",
+        "n3": "جراحة الفك والأسنان"
+    },
+    {
+        "index": 101,
+        "h1": "Epinephrine, Pilocarpine Ophthalmic",
+        "h2": "ابينفرين، بيلوكاربين للعين",
+        "n2": "أدوية معالجة الزرق",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 102,
+        "h1": "Epinephrine Ophthalmic",
+        "h2": "ابينفرين للعين",
+        "n2": "أدوية معالجة الزرق",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 103,
+        "h1": "Epinephrine, Lidocaine, Tetracaine topical",
+        "h2": "ابينفرين، ليدوكائين، تتراكائين موضعي",
+        "n2": "مضاد للجراثيم",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 104,
+        "h1": "Epinephrine, Lidocaine Ophthalmic",
+        "h2": "ابينفرين، ليدوكائين للعين",
+        "n2": "مخدر موضعي",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 105,
+        "h1": "Epinephrine Topical",
+        "h2": "ابينفرين موضعي",
+        "n2": "مزيل احتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 106,
+        "h1": "Activated Mormoiron Attapulgite, Guar gum",
+        "h2": "اتابولجايت، صمغ الغوار",
+        "n2": "مضادات الإسهال",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 107,
+        "h1": "Atazanavir",
+        "h2": "اتازانافير",
+        "n2": "مضادات الفيروسات",
+        "n3": "علم المناعة"
+    },
+    {
+        "index": 108,
+        "h1": "Etravirine",
+        "h2": "إترافيرين",
+        "n2": "مضادات الفيروسات",
+        "n3": "علم المناعة"
+    },
+    {
+        "index": 109,
+        "h1": "Atracurium",
+        "h2": "اتراكوريوم",
+        "n2": "عامل محصر للوصل العضلي العصبي لا مزيل للاستقطاب",
+        "n3": "تخدير"
+    },
+    {
+        "index": 110,
+        "h1": "Atropine",
+        "h2": "أتروبين",
+        "n2": "أدوية توسع الحدقة وشلل العضلة الهدبية",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 111,
+        "h1": "Atropine, Edrophonium",
+        "h2": "أتروبين، ادروفونيوم",
+        "n2": "مثبط الأسيتيل كولين استراز",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 112,
+        "h1": "Atropine, Pralidoxime",
+        "h2": "أتروبين، براليدوكسيم",
+        "n2": "مثبط الأسيتيل كولين استراز",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 113,
+        "h1": "Atropine, Colchicine, Piperazine",
+        "h2": "أتروبين، كولشسين، بيبيرازين",
+        "n2": "مضادات الالتهابات",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 114,
+        "h1": "atropine, citric acid, colchicine, piperazine",
+        "h2": "أتروبين، حمض الستريك، كولشسين، بيبيرازين",
+        "n2": "مضاد النقرس",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 115,
+        "h1": "atropine, citric acid, colchicine, khellin, piperazine, sodium",
+        "h2": "أتروبين، حمض الستريك، كولشسين، خلين، بيبيرازين، صوديوم",
+        "n2": "مضاد النقرس",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 116,
+        "h1": "Atropine, Diphenoxylate",
+        "h2": "أتروبين، ديفينوكسيلات",
+        "n2": "مضادات الإسهال",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 117,
+        "h1": "Atropine, Difenoxin",
+        "h2": "أتروبين، ديفينوكسين",
+        "n2": "مضادات الإسهال",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 118,
+        "h1": "Atropine, Phenobarbital",
+        "h2": "أتروبين، فينوباربيتال",
+        "n2": "باربيتيورات",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 119,
+        "h1": "Atropine, Chlorpheniramine, Hyoscyamine, Phenylephrine, Scopolamine",
+        "h2": "أتروبين، كلورفينرامين، هيوسيامين، فينيل افرين، سكوبولامين",
+        "n2": "مضاد الهيستامين و مضاد الإحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 120,
+        "h1": "Atropine, Chlorpheniramine, Hyoscyamine, Pseudoephedrine, Scopolamine",
+        "h2": "أتروبين، كلورفينيرامين، هيوسيامين، سودوإيفيدرين، سكوبولامين",
+        "n2": "مضاد الهيستامين و مضاد الإحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 121,
+        "h1": "Atropine, Ahlorpheniramine, Hyoscyamine, Phenylephrine, Phenylpropanolamine, Scopolamine",
+        "h2": "أتروبين، كلورفينيرامين، هيوسيامين، فينيل افرين، فينيل بروبانولامين، سكوبولامين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 122,
+        "h1": "Atropine, Hyoscyamine, Phenobarbital, Scopolamine",
+        "h2": "أتروبين، هيوسيامين، فينوباربيتال، سكوبولامين",
+        "n2": "مضاد للتشنج",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 123,
+        "h1": "Atropine, hyoscine, hyoscyamine, phenobarbital, sanzyme 2000",
+        "h2": "أتروبين، هيوسين، هيوسامين، فينوباربيتال، سانزيم 2000",
+        "n2": "مثبط الأسيتيل كولين استراز",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 124,
+        "h1": "etelcalcetide",
+        "h2": "اتلكالسيتيد",
+        "n2": "شبيه الكالسيوم",
+        "n3": "أمراض الغدد الصماء"
+    },
+    {
+        "index": 125,
+        "h1": "Atenolol",
+        "h2": "اتنولول",
+        "n2": "حاصرات مستقبلات بيتا",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 126,
+        "h1": "Atogepant",
+        "h2": "أتوجيبانت",
+        "n2": "علاجات الشقيقة",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 127,
+        "h1": "Atorvastatin",
+        "h2": "اتورفاستاتين",
+        "n2": "أدوية خافضة للدهون",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 128,
+        "h1": "Ezetimibe, atorvastatin",
+        "h2": "أتورفاستاتين، إيزيتيميب",
+        "n2": "أدوية خافضة للدهون",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 129,
+        "h1": "Atorvastatin, Perindopril arginine, Amlodipine besilate",
+        "h2": "اتورفاستاتين، بيريندوبريل ارجينين، ملوديبين بيزيلات",
+        "n2": "أدوية خافضة للدهون",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 130,
+        "h1": "Atosiban",
+        "h2": "أتوسيبان",
+        "n2": "مثبطات انزيم الاوكسيتوسين",
+        "n3": "الحمل والولادة"
+    },
+    {
+        "index": 131,
+        "h1": "Atovaquone",
+        "h2": "اتوفاكون",
+        "n2": "مضاد الأوالي",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 132,
+        "h1": "Proguanil hydrochloride, atovaquone",
+        "h2": "اتوفاكوين بروغوانيل",
+        "n2": "مضاد الملاريا",
+        "n3": "أمراض باطنية"
+    },
+    {
+        "index": 133,
+        "h1": "Atomoxetine",
+        "h2": "اتوموكستين",
+        "n2": "علاجات منبهة للجهاز العصبي المركزي",
+        "n3": "أمراض نفسية"
+    },
+    {
+        "index": 134,
+        "h1": "Etidronate",
+        "h2": "إتيدرونات",
+        "n2": "بيسفوسفونيت",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 135,
+        "h1": "Disodium etidronate",
+        "h2": "إتيدرونات ثنائي الصوديوم",
+        "n2": "بيسفوسفونيت",
+        "n3": "جراحة العظام"
+    },
+    {
+        "index": 136,
+        "h1": "Etidocaine",
+        "h2": "إتيدوكائين",
+        "n2": "مخدر موضعي",
+        "n3": "جراحة الأعصاب"
+    },
+    {
+        "index": 137,
+        "h1": "atezolizumab",
+        "h2": "اتيزوليزمب",
+        "n2": "مضاد وحيد النسيلة",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 138,
+        "h1": "Atenolol, Chlorthalidone",
+        "h2": "اتينولول وكلورثاليدون",
+        "n2": "دواء خافض لضغط الدم",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 139,
+        "h1": "Atenolol,Nifedipine",
+        "h2": "اتينولول، نيفيديبين",
+        "n2": "مضاد للذبحات الصدرية",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 140,
+        "h1": "Atenolol, Chlorthalidone",
+        "h2": "اتينولول وكلورثاليدون",
+        "n2": "دواء خافض لضغط الدم",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 141,
+        "h1": "Squill tincture, stramonium tincture, liquorice extract, lobelia tincture",
+        "h2": "أثر البصل البري، أثر الداتورة، خلاصة العرق سوس، أثر اللوبيليا",
+        "n2": "مستخلصات طبيعية",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 142,
+        "h1": "Belladonna tincture, ginger tincture, papain",
+        "h2": "أثر البلادونا، أثر الجنجر، بابين",
+        "n2": "مكملات غذائية",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 143,
+        "h1": "Tincture primula root, tincture thyme, tincutre pimpinella, tincture grindelia, tincture tilia",
+        "h2": "أثر جذر زهرة الربيع، أثر الزعتر، أثر أنيسون، أثر غرندلية، أثر الزيزفون",
+        "n2": "مضاد للسعال",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 144,
+        "h1": "arnica tincture, belladonna tincture, capsicum extract",
+        "h2": "أثر زهرة العطاس، أثر البيلادونا، خلاصة الفلفل",
+        "n2": "مستخلصات طبيعية",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 145,
+        "h1": "agalsidase alfa",
+        "h2": "اجلاسيداز الفا",
+        "n2": "انزيم",
+        "n3": "الامراض الوراثية"
+    },
+    {
+        "index": 146,
+        "h1": "agalsidase beta",
+        "h2": "اجلاسيداز بيتا",
+        "n2": "انزيم",
+        "n3": "الامراض الوراثية"
+    },
+    {
+        "index": 147,
+        "h1": "Ajmalicine, Almitrine",
+        "h2": "أجمليسين، ألميتيرين",
+        "n2": "موسع الاوعية الدموية",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 148,
+        "h1": "Agnucaston",
+        "h2": "أجناكستون",
+        "n2": "مستخلصات طبيعية",
+        "n3": "أعشاب طبية"
+    },
+    {
+        "index": 149,
+        "h1": "Agomelatine",
+        "h2": "اجوميلاتين",
+        "n2": "مضادات الاكتئاب",
+        "n3": "أمراض نفسية"
+    },
+    {
+        "index": 150,
+        "h1": "Agiolax",
+        "h2": "أجيولاكس",
+        "n2": "مُلين",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 151,
+        "h1": "monoethanolamine oleate",
+        "h2": "احادي ايثانول اميني",
+        "n2": "معدِل التخثر",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 152,
+        "h1": "Monomethyl Fumarate",
+        "h2": "أحادي ميثيل فومارات",
+        "n2": "عامل لكبت المناعة",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 153,
+        "h1": "Calcium dobesilate monohydrate",
+        "h2": "أحادي هيدرات كالسيوم دوبيسيلات",
+        "n2": "عامل مضاد للصفيحات",
+        "n3": "جراحة الأوعية الدموية"
+    },
+    {
+        "index": 154,
+        "h1": "Magnesium Amino Acids Chelate",
+        "h2": "أحماض المغنيسيوم الأمينية المخلبة",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 155,
+        "h1": "Amino Acids",
+        "h2": "احماض امينية",
+        "n2": "مكملات غذائية",
+        "n3": "تغذية"
+    },
+    {
+        "index": 156,
+        "h1": "aminoacids, bioflavonoids, biotin, chromium, cysteine, glycine, l-glutamic acid 5-ethyl ester nicotinamide, nicotinic acid, retinol,vitamin e",
+        "h2": "أحماض أمينية، البيوفلافونويد، بيوتين، كروم، سيستين، جلايسين، ل- حمض الجلوتاميك، فيتامين ب3، حمض النيكوتينيك، ريتينول، فيتامين هـ",
+        "n2": "فيتامينات",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 157,
+        "h1": "aminoacids, panthenol, vitamin e, biotin",
+        "h2": "احماض امينية بانثينول فيتامين هـ بيوتين",
+        "n2": "مكملات غذائية",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 158,
+        "h1": "amino acids, soya protein, lecithin, retinol & tocopherol, licorice, vitamin c, lavender extract",
+        "h2": "أحماض أمينية، بروتين الصويا، ليسيثين، ريتينول، توكوفيرول، عرقسوس، فيتامين ج، خلاصة اللافندر",
+        "n2": "مرطبات للبشرة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 159,
+        "h1": "aminoacids, ascorbic acid, betacarotene, euphrasia officinalis, iron ferrous, quercetin, riboflavin saccharomyces cerevisiae, vaccinium myrtillus, vitamin e,zinc",
+        "h2": "أحماض أمينية، فيتامين سي، البيتاكاروتين، حشيشة الرمد، كيرسيتين، فيتامين ب2، فطريات الخميرة، عنب الأحراج، فيتامين هـ، زنك، الحديد",
+        "n2": "فيتامينات",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 160,
+        "h1": "amino acids, vitamins",
+        "h2": "أحماض أمينية، فيتامينات",
+        "n2": "فيتامينات",
+        "n3": "تغذية"
+    },
+    {
+        "index": 161,
+        "h1": "amino acids, vitamins, electrolytes",
+        "h2": "احماض امينية، فيتامينات، كهارل",
+        "n2": "فيتامينات",
+        "n3": "تغذية"
+    },
+    {
+        "index": 162,
+        "h1": "aminoacids, multivitamins and minerals",
+        "h2": "أحماض أمينية، فيتامينات، معادن",
+        "n2": "فيتامينات",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 163,
+        "h1": "Amino Acids with electrolytes",
+        "h2": "احماض امينية وكهارل",
+        "n2": "أيونات مكملة",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 164,
+        "h1": "Omega-3 Polyunsaturated Fatty Acids",
+        "h2": "أحماض دهنية غير مشبعة، أوميغا 3",
+        "n2": "أدوية خافضة للدهون",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 165,
+        "h1": "amino acids, electrolytes, glucose (dextrose), lipids",
+        "h2": "أحمض أمينية، كهارل، جلوكوز(ديكستروز)، شحميات",
+        "n2": "مكملات غذائية",
+        "n3": "تغذية"
+    },
+    {
+        "index": 166,
+        "h1": "Skin Test Antigens Multiple",
+        "h2": "اختبار الجلد متعدد المستضدات",
+        "n2": "عامل تشخيص",
+        "n3": "أرجية حساسية"
+    },
+    {
+        "index": 167,
+        "h1": "Achillea, ambrosia leaves, ammi visnaga, chicory leaves, cymbopogon proximus, liquorice, peppermint oil",
+        "h2": "سيكيم (أعشاب للكلى) 15 كيس",
+        "n2": "مضاد للتشنج",
+        "n3": "أعشاب طبية"
+    },
+    {
+        "index": 168,
+        "h1": "ACHILLEA، BASIL، CHAMOMILE، CHICORY، HIBISCUS، VERBASCUM، VINE LEAVES",
+        "h2": "أخيلية، ريحان، بابونج، الهندباء البرية، كركديه، بوصير، أوراق العنب",
+        "n2": "مضادات الإسهال",
+        "n3": "أعشاب طبية"
+    },
+    {
+        "index": 169,
+        "h1": "ACHILLEA، ANISE، BASIL، CHAMOMILE، CHICORY، FENNEL، LEMON GRASS",
+        "h2": "أخيلية، يانسون، ريحان، كمون، الهندباء البرية، شومر، عشبة الليمون",
+        "n2": "مضاد تطبل البطن",
+        "n3": "أعشاب طبية"
+    },
+    {
+        "index": 170,
+        "h1": "Adapalene, Sulfur, Tretinoin",
+        "h2": "أدابالين، كبريت، تريتينوين",
+        "n2": "ريتينويد",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 171,
+        "h1": "Adapalene, Sulfur,Triclosan",
+        "h2": "أدابالين، كبريت، تريكلوزان",
+        "n2": "ريتينويد",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 172,
+        "h1": "Adapalene, Citrus limonum, Isotretinoin, Menthol, Retinol, Salicylic acid, Zinc",
+        "h2": "أدابالين، ليمون، آيزوترتينوين، مينثول، ريتينول، حمض الساليساليك، زنك",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 173,
+        "h1": "Adapalene and Benzoyl peroxide",
+        "h2": "أدابالين مع بيروكسيد البنزول",
+        "n2": "ريتينويد",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 174,
+        "h1": "Adapalene",
+        "h2": "أدابالين",
+        "n2": "ريتينويد",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 175,
+        "h1": "Adalimumab",
+        "h2": "اداليموماب",
+        "n2": "مضادات الروماتزم المعدلة للمرض",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 176,
+        "h1": "Edrophonium",
+        "h2": "ادروفونيوم",
+        "n2": "مثبط الأسيتيل كولين استراز",
+        "n3": "تخدير"
+    },
+    {
+        "index": 177,
+        "h1": "Adrenaline",
+        "h2": "أدرينالين",
+        "n2": "الأدوية الموسعة للقصبات الهوائية",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 178,
+        "h1": "lidocaine (lignocaine) hydrochloride, epinephrine",
+        "h2": "ليدوكائين وادرينالين",
+        "n2": "مخدر موضعي",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 179,
+        "h1": "Iron Edetate",
+        "h2": "أديتات الحديد",
+        "n2": "أدوية فقر الدم",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 180,
+        "h1": "Edetate Disodium EDTA",
+        "h2": "اديتات ثنائي الصوديوم اديتا",
+        "n2": "فئة الخوالب",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 181,
+        "h1": "Adefovir",
+        "h2": "اديفوفير",
+        "n2": "مضادات الفيروسات",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 182,
+        "h1": "Adiphenine, Kanamycin, Kaolin",
+        "h2": "أديفينين، كاناميسين، كاولين",
+        "n2": "مضاد حيوي",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 183,
+        "h1": "Idelalisib",
+        "h2": "إديلاليسيب",
+        "n2": "مضاد أورام",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 184,
+        "h1": "Adenosine, Lidocaine, Magnesium Sulfate",
+        "h2": "أدينوزين، ليدوكايين، كبريتات المغنيسيوم",
+        "n2": "الأدوية المضادة لإضطراب النظم القلبي",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 185,
+        "h1": "adenosine phosphate, ascorbic acid, choline, colecalciferol, copper, cyanocobalamin, folic acid magnesium, menadione, nicotinamide,pantothenic acid, phosphorus,potassium,pyridoxine, retinol, riboflavin,thiamine, vitamin e",
+        "h2": "ادينوسين فيتامين سي كولين فيتامين د3 نحاس فيتامين ب12",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 186,
+        "h1": "Irbesartan",
+        "h2": "اربيسارتان",
+        "n2": "حاصرات  مستقبلات الأنجيوتنسين 2",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 187,
+        "h1": "irbesartan, amlodipine besylate",
+        "h2": "اربيسارتان، اميلوديبين بيسيليت",
+        "n2": "حاصرات مستقبلات الأنجيوتنسين و محصرات قنوات الكالسيوم",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 188,
+        "h1": "Irbesartan, hydrochlorothiazide",
+        "h2": "اربيسارتان هيدروكلوروثيازيد",
+        "n2": "حاصرات مستقبلات الأنجيوتنسين و مدرات البول (ثيازيد )",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 189,
+        "h1": "Arbutamine",
+        "h2": "أربيوتامين",
+        "n2": "منشط القلب",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 190,
+        "h1": "Arbutin, rumex extract(tyrostat), enzyme inhibitor, antioxidants, aha",
+        "h2": "أربيوتين، خلاصة رامكس (تيروستات)، صاد أنزيم، مضادات أكسدة، حمض ألفا هيدروكسي",
+        "n2": "علاجات فرط التصبغ",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 191,
+        "h1": "Arbutin, liquorice, kojic acid, vitamin (c, e), panthenol",
+        "h2": "أربيوتين، عرق سوس، حمض الكوجيك، فيتامين (ج، هـ)، بانثينول",
+        "n2": "علاجات فرط التصبغ",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 192,
+        "h1": "Ertapenem",
+        "h2": "إرتابينم",
+        "n2": "مضاد للجراثيم",
+        "n3": "الامراض المعدية"
+    },
+    {
+        "index": 193,
+        "h1": "Lumefantrine & Artemether",
+        "h2": "أرتميتر مع لوميفانترين",
+        "n2": "مضاد الملاريا",
+        "n3": "الامراض المعدية"
+    },
+    {
+        "index": 194,
+        "h1": "Ertugliflozin",
+        "h2": "ارتوجليفلوزين",
+        "n2": "عامل مضاد للسكري",
+        "n3": "مرض السكري"
+    },
+    {
+        "index": 195,
+        "h1": "Ertugliflozin, Sitagliptin",
+        "h2": "ارتوجليفلوزين، سيتاجليبتين",
+        "n2": "أدوية علاج السكري",
+        "n3": "مرض السكري"
+    },
+    {
+        "index": 196,
+        "h1": "Ertugliflozin, Metformin hydrochloride",
+        "h2": "ارتوجليفلوزين، ميتفورمين هيدروكلوريد",
+        "n2": "عامل مضاد للسكري",
+        "n3": "مرض السكري"
+    },
+    {
+        "index": 197,
+        "h1": "artesunate",
+        "h2": "أرتيسونات",
+        "n2": "مضاد الملاريا",
+        "n3": "علم الأمراض"
+    },
+    {
+        "index": 198,
+        "h1": "Articaine, Adrenaline",
+        "h2": "أرتيكايين، أدرينالين",
+        "n2": "مخدر موضعي",
+        "n3": "أمراض الأسنان"
+    },
+    {
+        "index": 199,
+        "h1": "Argatroban",
+        "h2": "ارجاتروبان",
+        "n2": "مضاد التخثر",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 200,
+        "h1": "l-arginine-l-aspartate",
+        "h2": "أرجنين، أسبرتات",
+        "n2": "مكملات غذائية",
+        "n3": "صحة عامة"
+    },
+    {
+        "index": 201,
+        "h1": "Arginine, zinc oxide, vitamin e, onion honey, tea tree oil, calendula extract, aloe vera, olive leaf, rosehi",
+        "h2": "أرجنين، أكسيد الزنك، فيتامين هـ، عسل البصل، زيت شجرة الشاي، خلاصة الآذريون، الصبر الحقيقي، أوراق الزيتون، وردة المسك",
+        "n2": "مساعد التئام الجروح",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 202,
+        "h1": "Arginine",
+        "h2": "أرجينين",
+        "n2": "موسع الاوعية الدموية",
+        "n3": "مرض السكري"
+    },
+    {
+        "index": 203,
+        "h1": "l-arginine, saw palmetto ext, ginkgo biloba ext, rosemary ext, thyme ext, lavender oil, aloe vera, pantheno",
+        "h2": "أرجينين L، المنشارة النخلية، خلاصة الجنكة بيلوبا، خلاصة الروزماري، خلاصة الزعتر، زيت اللافندر، صبار، بانثينول",
+        "n2": "مستحضرات العناية بالشعر",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 204,
+        "h1": "l-arginine, rosemary, panthenol, aloe vera, lavender, jojoba oil",
+        "h2": "ارجينين ، روزماري ، بانثينول ،خلاصة الصبار ، الخزامي ، زيت الجوجوبا",
+        "n2": "مستخلصات طبيعية",
+        "n3": "البشرة والجمال"
+    },
+    {
+        "index": 205,
+        "h1": "Erdafitinib",
+        "h2": "إردافيتينيب",
+        "n2": "مثبط لانزيمات كينازية عديدة",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 206,
+        "h1": "Ardeparin",
+        "h2": "أردبارين",
+        "n2": "مضاد التخثر",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 207,
+        "h1": "Erdosteine",
+        "h2": "اردوستين",
+        "n2": "الادوية الحالة للميوسين (حالة للمخاط)",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 208,
+        "h1": "oryza sativa",
+        "h2": "ارز اسيوي",
+        "n2": "أدوية خافضة للدهون",
+        "n3": "أمراض باطنية"
+    },
+    {
+        "index": 209,
+        "h1": "Red yeast rice",
+        "h2": "أرز الخميرة الأحمر",
+        "n2": "أدوية خافضة للدهون",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 210,
+        "h1": "Ergotamine",
+        "h2": "إرغوتامين",
+        "n2": "علاجات الشقيقة",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 211,
+        "h1": "ergocalciferol",
+        "h2": "ارغوكالسيفيرول",
+        "n2": "فيتامينات",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 212,
+        "h1": "ergocalciferol, phytomenadione, retinol, vitamin e",
+        "h2": "ارغوكالسيفيرول فايتوميناديون فيتامين ا فيتامين ه",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 213,
+        "h1": "ergocalciferol, retinol",
+        "h2": "ارغوكالسيفيرول فيتامين ا",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 214,
+        "h1": "ergocalciferol, retinol, vitamin e",
+        "h2": "ارغوكالسيفيرول فيتامين ا فيتامين ه",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 215,
+        "h1": "ergocalciferol, ostrea gigas",
+        "h2": "ارغوكالسيفيرول محار المحيط الهادئ",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 216,
+        "h1": "Ergometrine",
+        "h2": "إرغومترين",
+        "n2": "عامل مسرع للولادة",
+        "n3": "الحمل والولادة"
+    },
+    {
+        "index": 217,
+        "h1": "Arformoterol",
+        "h2": "أرفورموتيرول",
+        "n2": "الأدوية الموسعة للقصبات الهوائية",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 218,
+        "h1": "Armodafinil",
+        "h2": "أرمادوفينيل",
+        "n2": "علاجات منبهة للجهاز العصبي المركزي",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 219,
+        "h1": "Eribulin",
+        "h2": "اريبولين",
+        "n2": "مضاد أورام",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 220,
+        "h1": "Aripiprazole",
+        "h2": "اريبيبرازول",
+        "n2": "مضادات الذهان",
+        "n3": "أمراض نفسية"
+    },
+    {
+        "index": 221,
+        "h1": "Recombinant Human Erythropoietin",
+        "h2": "إريثروبويتين المؤتلف",
+        "n2": "إرثروبويتين البشري المترابط",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 222,
+        "h1": "Recombinant Human Erythropoietin",
+        "h2": "إريثروبويتين المؤتلف",
+        "n2": "إرثروبويتين البشري المترابط",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 223,
+        "h1": "Erythropoietin",
+        "h2": "إريثروبيوتين",
+        "n2": "إرثروبويتين البشري المترابط",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 224,
+        "h1": "Erythromycin",
+        "h2": "إريثرومايسين",
+        "n2": "المضادات الحيوية للعينِ",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 225,
+        "h1": "Erythromycin",
+        "h2": "إريثرومايسين",
+        "n2": "المضادات الحيوية للعينِ",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 226,
+        "h1": "Erythromycin, Zinc",
+        "h2": "اريثرومسين زنك",
+        "n2": "مضاد حيوي",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 227,
+        "h1": "Erythromycin Topical",
+        "h2": "إريثروميسين موضعي",
+        "n2": "مضاد حيوي موضعي",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 228,
+        "h1": "Irinotecan",
+        "h2": "إرينوتيكان",
+        "n2": "مثبط التوبوايزوميراز 1",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 229,
+        "h1": "Irinotecan Liposomal",
+        "h2": "إرينوتيكان ليبوسومال",
+        "n2": "مضاد أورام",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 230,
+        "h1": "Erenumab",
+        "h2": "ارينوماب",
+        "n2": "مضاد وحيد النسيلة",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 231,
+        "h1": "Azapentacene Polysulfonate Sodium",
+        "h2": "ازابنتاسين بوليسلفونات الصوديوم",
+        "n2": "مضادات الالتهابات للعين",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 232,
+        "h1": "Azatadine maleate",
+        "h2": "أزاتادين",
+        "n2": "مضاد الهيستامين",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 233,
+        "h1": "Azathioprine",
+        "h2": "ازاثيوبرين",
+        "n2": "عامل لكبت المناعة",
+        "n3": "علم المناعة"
+    },
+    {
+        "index": 234,
+        "h1": "Azacitidine",
+        "h2": "ازاسيتيدين",
+        "n2": "عامل نزع الميثيل من الحمض النووي",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 235,
+        "h1": "Azapropazone",
+        "h2": "أزبروبازون",
+        "n2": "مضادات الالتهابات",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 236,
+        "h1": "Aztreonam",
+        "h2": "أزتريونام",
+        "n2": "مضاد حيوي",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 237,
+        "h1": "Aztec marigold, Lutein, Zeaxanthin",
+        "h2": "ازتيك ماريغولد، ليوتين، زيازانثين",
+        "n2": "مكملات غذائية",
+        "n3": "أدوية"
+    },
+    {
+        "index": 238,
+        "h1": "Methylene Blue",
+        "h2": "أزرق الميثيلين",
+        "n2": "دِرْياق",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 239,
+        "h1": "Esomeprazole",
+        "h2": "إيزوميبرازول",
+        "n2": "مثبطات مضخة البروتون",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 240,
+        "h1": "Ezetimibe",
+        "h2": "ازيتيمب",
+        "n2": "أدوية خافضة للدهون",
+        "n3": "أمراض القلب و الشرايين"
+    },
+    {
+        "index": 241,
+        "h1": "Azithromycin",
+        "h2": "أزيثرومايسين",
+        "n2": "مضاد للجراثيم",
+        "n3": "الامراض المعدية"
+    },
+    {
+        "index": 242,
+        "h1": "Azithromycin, Trovafloxacin",
+        "h2": "أزيثروميسين، تروفافلوكساسين",
+        "n2": "مضاد حيوي",
+        "n3": "الامراض المعدية"
+    },
+    {
+        "index": 243,
+        "h1": "Azelastine",
+        "h2": "ازيلاستين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 244,
+        "h1": "Azelastine Ophthalmic",
+        "h2": "ازيلاستين عيني",
+        "n2": "مضاد الهيستامين",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 245,
+        "h1": "Azelastine Hcl, Fluticasone propionate",
+        "h2": "ازيلاستين هيدروكلورايد، بروبيونات فلوتيكاسون",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 246,
+        "h1": "Azilsartan medoxomil",
+        "h2": "أزيلسارتان ميدوكسوميل",
+        "n2": "حاصرات  مستقبلات الأنجيوتنسين 2",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 247,
+        "h1": "azilsartan medoxomil, chlorthalidone",
+        "h2": "أزيلسارتان ميدوكسوميل، كلورثاليدون",
+        "n2": "حاصرات مستقبلات الأنجيوتنسين و مدرات البول (ثيازيد )",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 248,
+        "h1": "Azintamide, Pancreatin",
+        "h2": "ازينتامايد، البنكرياتين (انزيمات البنكرياس)",
+        "n2": "إنزيمات البنكرياس",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 249,
+        "h1": "azintamide, cellulase, pancreatin",
+        "h2": "ازينتامايد، السيليوليز، البنكرياتين (انزيمات البنكرياس)",
+        "n2": "انزيم",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 250,
+        "h1": "Ispaghula, Mebeverine",
+        "h2": "اسباجولا، ميبفرين",
+        "n2": "مضاد للتشنج",
+        "n3": "أمراض الجهاز الهضمي"
+    },
+    {
+        "index": 251,
+        "h1": "Asparaginase Erwinia Chrysanthemi",
+        "h2": "أسباراجيناز إروينيا الأقحوان",
+        "n2": "مضاد أورام",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 252,
+        "h1": "Pullulan, Aspartame",
+        "h2": "اسبارتام البولولان",
+        "n2": "محليات صناعية",
+        "n3": "مرض السكري"
+    },
+    {
+        "index": 253,
+        "h1": "Asparaginase",
+        "h2": "اسبارجيناز",
+        "n2": "مضاد أورام",
+        "n3": "الأورام الخبيثة والحميدة"
+    },
+    {
+        "index": 254,
+        "h1": "Magnesium Aspartate",
+        "h2": "اسبرتات المغنيسيوم",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 255,
+        "h1": "Magnesium hydrogen aspartate",
+        "h2": "أسبرتات هيدروجين الماغنسيوم",
+        "n2": "مكملات غذائية",
+        "n3": "فيتامينات و معادن"
+    },
+    {
+        "index": 256,
+        "h1": "aspartame",
+        "h2": "اسبرتام",
+        "n2": "محليات صناعية",
+        "n3": "مرض السكري"
+    },
+    {
+        "index": 257,
+        "h1": "Aspirin, Oxycodone",
+        "h2": "أسبرين، أوكسيكودون",
+        "n2": "ساليسيلات",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 258,
+        "h1": "Aspirin, Omeprazole",
+        "h2": "أسبرين، أوميبرازول",
+        "n2": "مضاد حموضة",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 259,
+        "h1": "Aspirin, Pravastatin",
+        "h2": "أسبرين، برافاستاتين",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 260,
+        "h1": "Aspirin, Brompheniramine, Dextromethorphan, Phenylpropanolamine",
+        "h2": "أسبرين، برومفينيرامين، ديكستروميثورفان، فينيل بروبانولامين",
+        "n2": "الادوية المضادة للسعالِ",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 261,
+        "h1": "Aspirin, Pentazocine",
+        "h2": "أسبرين، بنتازوسين",
+        "n2": "ساليسيلات",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 262,
+        "h1": "Aspirin, Butalbital",
+        "h2": "أسبرين، بوتالبيتال",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 263,
+        "h1": "Aspirin, Butalbital, Caffeine, Codeine",
+        "h2": "أسبرين، بوتالبيتال، كافيين، كودايين",
+        "n2": "مضادات الالتهابات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 264,
+        "h1": "Aspirin, Citric Acid, Sodium Bicarbonate",
+        "h2": "أسبرين، حمض الستريك، بيكربونات الصوديوم",
+        "n2": "مضاد حموضة",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 265,
+        "h1": "Aspirin, Diphenhydramine",
+        "h2": "أسبرين، ديفينهيدرامين",
+        "n2": "علاج منوم ومهدئ",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 266,
+        "h1": "Aspirin, Diphenhydramine, Phenylpropanolamine",
+        "h2": "أسبرين، ديفينهيدرامين، فينيل بروبانولامين",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 267,
+        "h1": "Aspirin, Pseudoephedrine",
+        "h2": "أسبرين، سودوإيفيدرين",
+        "n2": "ساليسيلات",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 268,
+        "h1": "Aspirin, Phenyltoloxamine",
+        "h2": "أسبرين، فينيل تولوكسامين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 269,
+        "h1": "Aspirin, Carisoprodol",
+        "h2": "أسبرين، كاريزوبرودول",
+        "n2": "مسكن",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 270,
+        "h1": "Aspirin, Carisoprodol, Codeine",
+        "h2": "أسبرين، كاريزوبرودول، كودايين",
+        "n2": "مسكن",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 271,
+        "h1": "Aspirin, Caffeine, Propoxyphene",
+        "h2": "أسبرين، كافيين، بروبوكسيفين",
+        "n2": "مسكن",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 272,
+        "h1": "Aspirin, Caffeine, Dihydrocodeine",
+        "h2": "أسبرين، كافيين، ثنائي هيدرو كودايين",
+        "n2": "مسكن",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 273,
+        "h1": "Aspirin, Caffeine, Salicylamide",
+        "h2": "أسبرين، كافيين، ساليسيلاميد",
+        "n2": "ساليسيلات",
+        "n3": "جراحة العظام"
+    },
+    {
+        "index": 274,
+        "h1": "Aspirin, Calcium carbonate",
+        "h2": "أسبرين، كربونات الكالسيوم",
+        "n2": "ساليسيلات",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 275,
+        "h1": "Aspirin, Chlorpheniramine, Dextromethorphan",
+        "h2": "أسبرين، كلورفينيرامين، ديكستروميثورفان",
+        "n2": "مسكن",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 276,
+        "h1": "Aspirin, Chlorpheniramine, Dextromethorphan, Phenylpropanolamine",
+        "h2": "أسبرين، كلورفينيرامين، ديكستروميثورفان، فينيل بروبانولامين",
+        "n2": "ساليسيلات",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 277,
+        "h1": "Aspirin, Chlorpheniramine, Phenylpropanolamine",
+        "h2": "أسبرين، كلورفينيرامين، فينيل بروبانولامين",
+        "n2": "ساليسيلات",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 278,
+        "h1": "Aspirin, Chlorpheniramine, Phenylephrine",
+        "h2": "أسبرين، كلورفينيرامين، فينيليفرين",
+        "n2": "ساليسيلات",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 279,
+        "h1": "Aspirin, Meprobamate",
+        "h2": "أسبرين، ميبروبامات",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 280,
+        "h1": "Aspirin, Methocarbamol",
+        "h2": "أسبرين، ميثوكاربامول",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 281,
+        "h1": "Aspirin, Hydrocodone",
+        "h2": "أسبرين، هيدروكودون",
+        "n2": "ساليسيلات",
+        "n3": "جراحة عامة"
+    },
+    {
+        "index": 282,
+        "h1": "estrapronicate, hydroxyprogesterone , nandrolone",
+        "h2": "استرابونيكيت هيدروكسي بروجستيرون كابروات ناندرولون",
+        "n2": "هرمون",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 283,
+        "h1": "estradiol/progesterone",
+        "h2": "استرادايول بروجسترون",
+        "n2": "هرمون",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 284,
+        "h1": "Istradefylline",
+        "h2": "استراديفيللين",
+        "n2": "علاجات الباركنسون",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 285,
+        "h1": "Estradiol",
+        "h2": "استراديول",
+        "n2": "مشتقات الاستروجين",
+        "n3": "الحمل والولادة"
+    },
+    {
+        "index": 286,
+        "h1": "estradiol , prasterone",
+        "h2": "استراديول براستيرون",
+        "n2": "موانع حمل هرمونية",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 287,
+        "h1": "Estradiol, Testosterone",
+        "h2": "الاستراديول والتيستوستيرون",
+        "n2": "هرمون",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 288,
+        "h1": "Estradiol, dydrogesterone",
+        "h2": "إستراديول، دايدروجيستيرون",
+        "n2": "هرمون",
+        "n3": "هرمونات"
+    },
+    {
+        "index": 289,
+        "h1": "Ethinyl Estradiol and Drospirenone",
+        "h2": "استراديول دروسبيرينون",
+        "n2": "هرمون",
+        "n3": "الحمل والولادة"
+    },
+    {
+        "index": 290,
+        "h1": "Estradiol Valerate",
+        "h2": "استراديول فاليرات",
+        "n2": "مشتقات الاستروجين",
+        "n3": "أمراض الغدد الصماء"
+    },
+    {
+        "index": 291,
+        "h1": "Estradiol valerate, cyproterone acetate",
+        "h2": "إستراديول فاليرات، أسيتات السيبروتيرون",
+        "n2": "هرمون",
+        "n3": "هرمونات"
+    },
+    {
+        "index": 292,
+        "h1": "Estradiol Valerate, Norgestrel",
+        "h2": "استراديول فاليرات، نورجيستريل",
+        "n2": "هرمون",
+        "n3": "هرمونات"
+    },
+    {
+        "index": 293,
+        "h1": "Estradiol Topical",
+        "h2": "إستراديول موضعي",
+        "n2": "مشتقات الاستروجين",
+        "n3": "هرمونات"
+    },
+    {
+        "index": 294,
+        "h1": "Estradiol, Norethisterone",
+        "h2": "استراديول، نوراثيستيرون",
+        "n2": "هرمون",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 295,
+        "h1": "Estradiol, Norethisterone",
+        "h2": "استراديول، نوراثيستيرون",
+        "n2": "هرمون",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 296,
+        "h1": "Norgestrel and Ethinyl Estradiol",
+        "h2": "نورجيستريل و أيثنيل أستراديول",
+        "n2": "موانع حمل هرمونية",
+        "n3": "الحمل والولادة"
+    },
+    {
+        "index": 297,
+        "h1": "Estradiol, Norethindrone Topical",
+        "h2": "إستراديول، نوريثيندرون موضعي",
+        "n2": "هرمون",
+        "n3": "هرمونات"
+    },
+    {
+        "index": 298,
+        "h1": "Estropipate Topical",
+        "h2": "إستروبيبت موضعي",
+        "n2": "مشتقات الاستروجين",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 299,
+        "h1": "Conjugated Estrogens and Medroxyprogesterone",
+        "h2": "إستروجين مقترن و ميدروكسي بروجيستيرون",
+        "n2": "مركب الاستروجين والبروجستين",
+        "n3": "الحمل والولادة"
+    },
+    {
+        "index": 300,
+        "h1": "Oestrogens (Conjugated), Norgestrel (DL)",
+        "h2": "استروجين، نورجيستريل",
+        "n2": "هرمون",
+        "n3": "هرمونات"
+    },
+    {
+        "index": 301,
+        "h1": "Esterified Estrogens",
+        "h2": "إستروجينات مؤسترة",
+        "n2": "هرمون",
+        "n3": "أمراض باطنية"
+    },
+    {
+        "index": 302,
+        "h1": "Esterified Estrogens, Methyltestosterone",
+        "h2": "إستروجينات مؤسترة، ميثيل تستوستيرون",
+        "n2": "هرمون",
+        "n3": "هرمونات"
+    },
+    {
+        "index": 303,
+        "h1": "Estriol Succinate, Lactobacillus Acidophilus, Lactose",
+        "h2": "استريول سكسينات، الملبنة الحمضية، لاكتوز",
+        "n2": "هرمون",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 304,
+        "h1": "Astercantha longifolia, Blepharis edulis (Utanjan), Crocus sativus (Saffron), Prunus amygdalus (Almond), Tribulus terrestris (Small caltrops)",
+        "h2": "استيركانثا لونجيفوليا، اوتانجان، الزعفران، اللوز، تريبولوس تيريستريس",
+        "n2": "مكملات غذائية",
+        "n3": "الصحة الجنسية"
+    },
+    {
+        "index": 305,
+        "h1": "Acetylsalicylic Acid, Ascorbic Acid",
+        "h2": "استيل ساليسيلك اسيد، اسكوربيك اسيد",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 306,
+        "h1": "Acetylsalicylic acid, Codeine",
+        "h2": "استيل ساليسيلك اسيد، كودايين",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 307,
+        "h1": "Acetylcysteine, alanine, arginine, glycine, histidine, isoleucine, leucine lysine, malic acid, methionine,n-acetyl-l-tyrosin, phenylalanine,proline,serine, taurine, threonine,tryptophan, valine",
+        "h2": "استيل سيستين الانين آرجنين غلايسين هستيدين لوسين",
+        "n2": "أحماض أمينية",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 308,
+        "h1": "Acetylcysteine, hydroxypropyl methylcellulose",
+        "h2": "استيل سيستين، هيدروكسي بروبيل ميثيل سيليولوز",
+        "n2": "مرطب العين",
+        "n3": "امراض العيون"
+    },
+    {
+        "index": 309,
+        "h1": "Acetyl-L-carnitine, co-enzyme q10, L-methionine, glutathione, lycopene",
+        "h2": "استيل-ل-كارنتين، كو انزيم كيو10، ل-ميثيونين، جلوتاثيون، ليكوبين",
+        "n2": "فيتامينات",
+        "n3": "صحة الرجل"
+    },
+    {
+        "index": 310,
+        "h1": "acetylcysteine, alanine, arginine, glycine, histidine, isoleucine, leucine lysine, methionine, n-glycyltyrosine,phenylalanine, proline,serine,threonine, tryptophan, tyrosine,valine",
+        "h2": "استيلسيستين الانين آرجنين غلايسين هستيدين لوسين",
+        "n2": "أحماض أمينية",
+        "n3": "تغذية"
+    },
+    {
+        "index": 311,
+        "h1": "astemizole",
+        "h2": "أستيميزول",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 312,
+        "h1": "Isradipine",
+        "h2": "اسرادبين",
+        "n2": "محصرات قنوات الكالسيوم",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 313,
+        "h1": "Eszopiclone",
+        "h2": "زوبيكلون",
+        "n2": "علاج منوم ومهدئ",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 314,
+        "h1": "Ferrous Ascorbate",
+        "h2": "اسكوربات الحديدوز",
+        "n2": "مكملات غذائية",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 315,
+        "h1": "Esmolol",
+        "h2": "إسمولول",
+        "n2": "محصر مستقبلات بيتا",
+        "n3": "علم الصيدلة"
+    },
+    {
+        "index": 316,
+        "h1": "asiaticoside, cetrimide, chamazulene, madecassoside, panthenol",
+        "h2": "أسياتيكوزيد، سيتريميد، كامآزولين، ماديكاسوسايد، بانثينول",
+        "n2": "مضادات الالتهابات",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 317,
+        "h1": "asiaticoside, chamazulene, levomenol, madecassoside, panthenol",
+        "h2": "اسياتيكوزيد كامازولين ليفومينول بيسابولول",
+        "n2": "مضادات الالتهابات",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 318,
+        "h1": "acebutolol",
+        "h2": "اسيبيوتلول",
+        "n2": "الأدوية المضادة لإضطراب النظم القلبي",
+        "n3": "ارتفاع ضغط الدم"
+    },
+    {
+        "index": 319,
+        "h1": "Aluminum Acetate",
+        "h2": "أسيتات الألمنيوم",
+        "n2": "الأدوية القابضة",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 320,
+        "h1": "Aluminum acetate, hydrocortisone acetate, lidocaine, zinc oxide",
+        "h2": "أسيتات الألمنيوم، أسيتات الهيدروكورتيزون، ليدوكين، أكسيد الزنك",
+        "n2": "مضادات الالتهابات",
+        "n3": "أمراض المسالك البولية والتناسلية"
+    },
+    {
+        "index": 321,
+        "h1": "Potassium Acetate",
+        "h2": "اسيتات البوتاسيوم",
+        "n2": "محلول",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 322,
+        "h1": "Potassium Acetate, Potassium Bicarbonate, Potassium Citrate",
+        "h2": "اسيتات البوتاسيوم، بيكربونات البوتاسيوم، سترات البوتاسيوم",
+        "n2": "أيونات مكملة",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 323,
+        "h1": "Zinc Acetate",
+        "h2": "أسيتات الزنك",
+        "n2": "أيونات مكملة",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 324,
+        "h1": "Sodium acetate",
+        "h2": "اسيتات الصوديوم (خلات الصوديوم)",
+        "n2": "محلول",
+        "n3": "أمراض الدم"
+    },
+    {
+        "index": 325,
+        "h1": "Calcium acetate, Magnesium carbonate",
+        "h2": "أسيتات الكالسيوم، كربونات المغنيسيوم",
+        "n2": "أيونات مكملة",
+        "n3": "أمراض المسالك البولية والتناسلية"
+    },
+    {
+        "index": 326,
+        "h1": "Cortisone Acetate",
+        "h2": "أسيتات الكورتيزون",
+        "n2": "كورتيكوستيرويد",
+        "n3": "أمراض الغدد الصماء"
+    },
+    {
+        "index": 327,
+        "h1": "Levomethadyl Acetate",
+        "h2": "اسيتات الليفوميثاديل",
+        "n2": "مسكنات أفيونية",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 328,
+        "h1": "Megastrol acetate",
+        "h2": "اسيتات الميجاسترول",
+        "n2": "بروجستين",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 329,
+        "h1": "Hydrocortisone acetate, neomycin sulphate",
+        "h2": "اسيتات الهيدروكورتيزون كبريتات النيوميسين",
+        "n2": "كورتيكوستيرويد و مضاد حيوي",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 330,
+        "h1": "Hydrocortisone acetate, clioquinol",
+        "h2": "اسيتات الهيدروكورتيزون كليوكوينول",
+        "n2": "كورتيكوستيرويد و مضاد حيوي",
+        "n3": "الأمراض الجلدية"
+    },
+    {
+        "index": 331,
+        "h1": "Ulipristal acetate",
+        "h2": "أسيتات الوليبرستال",
+        "n2": "معدل مستقبلات هرمون الاستروجين الانتقائية",
+        "n3": "صحة المرأة"
+    },
+    {
+        "index": 332,
+        "h1": "Acetazolamide",
+        "h2": "اسيتازولاميد",
+        "n2": "أدوية معالجة الزرق",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 333,
+        "h1": "escitalopram",
+        "h2": "اسيتالوبرام",
+        "n2": "مضادات الاكتئاب",
+        "n3": "أمراض نفسية"
+    },
+    {
+        "index": 334,
+        "h1": "Acetaminophen, Aspirin",
+        "h2": "اسيتامينوفين، اسبرين",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 335,
+        "h1": "Acetaminophen, Aspirin, Diphenhydramine",
+        "h2": "أسيتامينوفين، أسبرين، دايفينهيدرامين",
+        "n2": "مضاد الهيستامين ومسكن الالم",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 336,
+        "h1": "Acetaminophen, Aspirin, Phenylpropanolamine",
+        "h2": "أسيتامينوفين، أسبرين، فينيل بروبانولامين",
+        "n2": "مضاد الاحتقان ومسكن",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 337,
+        "h1": "Acetaminophen, Aspirin, Caffeine, Salicylamide",
+        "h2": "اسيتامينوفين، أسبرين، كافيين، ساليسيلاميد",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 338,
+        "h1": "Acetaminophen, Oxycodone",
+        "h2": "أسيتامينوفين، أوكسيكودون",
+        "n2": "مسكن",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 339,
+        "h1": "Acetaminophen, Pamabrom, Pyridoxine",
+        "h2": "أسيتامينوفين، بامابروم، بايريدوكسين",
+        "n2": "مدرات البول",
+        "n3": "أمراض نسائية"
+    },
+    {
+        "index": 340,
+        "h1": "Acetaminophen, Propoxyphene",
+        "h2": "أسيتامينوفين، بروبوكسيفين",
+        "n2": "مسكنات أفيونية",
+        "n3": "أمراض العضلات والعظام و المفاصل"
+    },
+    {
+        "index": 341,
+        "h1": "Acetaminophen, Brompheniramine",
+        "h2": "أسيتامينوفين، برومفينيارمين",
+        "n2": "مضاد الهيستامين ومسكن الالم",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 342,
+        "h1": "Acetaminophen, Brompheniramine, Dextromethorphan, Pseudoephedrine",
+        "h2": "اسيتامينوفين، برومفينيرامين، ديكستروميتورفان، سودوإيفيدرين",
+        "n2": "مضاد للسعال",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 343,
+        "h1": "Acetaminophen, Brompheniramine, Phenylpropanolamine",
+        "h2": "اسيتامينوفين، برومفينيرامين، فينيل بروبانولامين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 344,
+        "h1": "Acetaminophen, Pentazocine",
+        "h2": "أسيتامينوفين، بنتازوسين",
+        "n2": "مسكنات أفيونية",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 345,
+        "h1": "Acetaminophen, Benzhydrocodone",
+        "h2": "أسيتامينوفين، بنزهيدروكودون",
+        "n2": "الادوية المضادة للسعالِ",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 346,
+        "h1": "Acetaminophen, Butalbital",
+        "h2": "أسيتامينوفين، بوتالبيتال",
+        "n2": "باربيتيورات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 347,
+        "h1": "Acetaminophen, Pyrilamine",
+        "h2": "أسيتامينوفين، بيريلامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 348,
+        "h1": "Acetaminophen, Guaifenesin",
+        "h2": "أسيتامينوفين، جوافينيسين",
+        "n2": "الادوية المضادة للسعالِ",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 349,
+        "h1": "Acetaminophen, Guaifenesin, Pseudoephedrine",
+        "h2": "أسيتامينوفين، جوافينيسين، سودوافدرين",
+        "n2": "الادوية المضادة للسعالِ",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 350,
+        "h1": "Paracetamol and Diphenhydramine",
+        "h2": "باراسيتامول، دايفينهيدرامين",
+        "n2": "مضاد الهيستامين ومسكن الالم",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 351,
+        "h1": "Acetaminophen, Dextromethorphan, Doxylamine, Guaifenesin, Phenylephrine",
+        "h2": "اسيتامينوفين، دكسترومثورفان، دوكسيلامين، جوافينيسين، فينيلفرين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 352,
+        "h1": "Acetaminophen, Dextromethorphan, Doxylamine, Pseudoephedrine",
+        "h2": "اسيتامينوفين، دكسترومثورفان، دوكسيلامين، سودوافدرين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 353,
+        "h1": "Acetaminophen, Dextromethorphan, Doxylamine, Phenylephrine",
+        "h2": "اسيتامينوفين، دكسترومثورفان، دوكسيلامين، فينيلفرين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 354,
+        "h1": "Acetaminophen, Dextromethorphan, Diphenhydramine, Phenylephrine",
+        "h2": "اسيتامينوفين، دكسترومثورفان، ديفينهيدرامين، فينيلفرين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 355,
+        "h1": "Acetaminophen, Doxylamine, Pseudoephedrine",
+        "h2": "أسيتامينوفين، دوكسيلامين، سودوافدرين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 356,
+        "h1": "Acetaminophen, Doxylamine, Phenylephrine",
+        "h2": "أسيتامينوفين، دوكسيلامين، فينيل افرين",
+        "n2": "مضاد الهيستامين,مضاد الاحتقان,مسكن الم",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 357,
+        "h1": "Acetaminophen, Diphenhydramine, Guaifenesin, Phenylephrine",
+        "h2": "أسيتامينوفين، ديفينهيدرامين، جوافينيزين، فينيل افرين",
+        "n2": "أدوية السعال و الزكام المركبة",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 358,
+        "h1": "Acetaminophen, Diphenhydramine, Phenylephrine",
+        "h2": "أسيتامينوفين، ديفينهيدرامين، فينيل افرين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 359,
+        "h1": "Acetaminophen, Dexbrompheniramine",
+        "h2": "أسيتامينوفين، ديكسبرومفينيرامين",
+        "n2": "مضاد الهيستامين ومسكن الالم",
+        "n3": "أنف، أذن وحنجرة"
+    },
+    {
+        "index": 360,
+        "h1": "Acetaminophen, Dexbrompheniramine, Pseudoephedrine",
+        "h2": "أسيتامينوفين، ديكسبرومفينيرامين، سودوإيفيدرين",
+        "n2": "مضاد الهيستامين,مضاد الاحتقان,مسكن الم",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 361,
+        "h1": "Acetaminophen, Dextromethorphan, Phenylpropanolamine",
+        "h2": "اسيتامينوفين، ديكستروميتورفان، فينيل بروبانولامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 362,
+        "h1": "Acetaminophen, dextromethorphan, phenylephrine",
+        "h2": "اسيتامينوفين، ديكستروميتورفان، فينيل افرين",
+        "n2": "الادوية المضادة للسعالِ",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 363,
+        "h1": "Acetaminophen, Dextromethorphan, Phenylephrine, Triprolidine",
+        "h2": "اسيتامينوفين، ديكستروميتورفان، فينيليفرين، تريبروليدين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 364,
+        "h1": "Acetaminophen, Dextromethorphan",
+        "h2": "أسيتامينوفين، ديكستروميثورفان",
+        "n2": "مسكن",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 365,
+        "h1": "Acetaminophen, Dextromethorphan, Triprolidine",
+        "h2": "اسيتامينوفين، ديكستروميثورفان، ترايبروليدين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 366,
+        "h1": "Acetaminophen, Dextromethorphan, Guaifenesin, Oxymetazoline, Phenylephrine",
+        "h2": "أسيتامينوفين، ديكستروميثورفان، جوافينيسين، أوكسي ميتازولين، فينيليفرين",
+        "n2": "مضاد الاحتقان ومسكن",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 367,
+        "h1": "Acetaminophen, Dextromethorphan, Guaifenesin, Triprolidine",
+        "h2": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، تريبروليدين",
+        "n2": "الادوية المضادة للسعالِ",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 368,
+        "h1": "Acetaminophen, Dextromethorphan, Guaifenesin, Phenylpropanolamine",
+        "h2": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، فينيل بروبانولامين",
+        "n2": "الادوية المضادة للسعالِ",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 369,
+        "h1": "Acetaminophen, Dextromethorphan, Guaifenesin, Phenylephrine, Triprolidine",
+        "h2": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، فينيليفرين، تريبروليدين",
+        "n2": "مزيل احتقان ومقشع ومضاد للسعل .",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 370,
+        "h1": "Acetaminophen, Dextromethorphan, Guaifenesin, Phenylephrine",
+        "h2": "اسيتامينوفين، ديكستروميثورفان، جوافينيسين، وفينيليفرين",
+        "n2": "مقشعات",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 371,
+        "h1": "Acetaminophen, Dextromethorphan, Diphenhydramine",
+        "h2": "أسيتامينوفين، ديكستروميثورفان، دايفنهيدرامين",
+        "n2": "أدوية السعال و الزكام المركبة",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 372,
+        "h1": "Acetaminophen, Dextromethorphan, Diphenhydramine, Guaifenesin, Phenylephrine",
+        "h2": "أسيتامينوفين، ديكستروميثورفان، دايفنهيدرامين، جوافينيسين، فينيل افرين",
+        "n2": "مقشعات",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 373,
+        "h1": "Acetaminophen, Dextromethorphan, Pseudoephedrine, Pyrilamine",
+        "h2": "اسيتامينوفين، ديكستروميثورفان، سودوإيفيدرين، بيريلامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 374,
+        "h1": "Acetaminophen, Dichloralphenazone, Isometheptene mucate",
+        "h2": "أسيتامينوفين، ديكلورالفينازون، ميوكات إيزوميثيبتين",
+        "n2": "مضاد للتشنج",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 375,
+        "h1": "Acetaminophen, Magnesium salicylate",
+        "h2": "أسيتامينوفين، ساليسيلات المغنيسيوم",
+        "n2": "مضاد للتشنج",
+        "n3": "صحة المرأة"
+    },
+    {
+        "index": 376,
+        "h1": "Acetaminophen, Magnesium salicylate, Pamabrom",
+        "h2": "أسيتامينوفين، ساليسيلات المغنيسيوم، بامابروم",
+        "n2": "مضاد للتشنج",
+        "n3": "صحة المرأة"
+    },
+    {
+        "index": 377,
+        "h1": "Acetaminophen, Pheniramine, Phenylephrine",
+        "h2": "أسيتامينوفين، فينيرامين، فينيل إفرين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 378,
+        "h1": "Acetaminophen, Phenyltoloxamine",
+        "h2": "أسيتامينوفين، فينيل تولوكسامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 379,
+        "h1": "Acetaminophen, Phenyltoloxamine, Salicylamide",
+        "h2": "أسيتامينوفين، فينيل تولوكسامين، ساليسيلاميد",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    
+    {
+        "index": 380,
+        "h1": "Acetaminophen, Caffeine, Isometheptene Mucate",
+        "h2": "أسيتامينوفين، كافيين، أيزوميثيبتين ميوكات",
+        "n2": "مسكن ألم غير أفيوني",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 381,
+        "h1": "Acetaminophen, Caffeine, Pyrilamine",
+        "h2": "اسيتامينوفين، كافيين، بيريلامين",
+        "n2": "مضاد للتشنج",
+        "n3": "صحة المرأة"
+    },
+    {
+        "index": 382,
+        "h1": "Acetaminophen, Caffeine, Dihydrocodeine",
+        "h2": "أسيتامينوفين، كافيين، ثنائي هيدروكودايين",
+        "n2": "مسكن ألم غير أفيوني",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 383,
+        "h1": "Acetaminophen, Caffeine, Guaifenesin, Phenylephrine",
+        "h2": "أسيتامينوفين، كافيين، جوافينيسين، فينيل افرين",
+        "n2": "مقشعات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 384,
+        "h1": "Acetaminophen, Caffeine, Magnesium Salicylate, Phenyltoloxamine",
+        "h2": "أسيتامينوفين، كافيين، ساليسيلات المغنيسوم، فينيل تولوكسامين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 385,
+        "h1": "Acetaminophen, Caffeine, Magnesium Salicylate",
+        "h2": "أسيتامينوفين، كافيين، ساليسيلات المغنيسيوم",
+        "n2": "ساليسيلات",
+        "n3": "الأمراض العصبية"
+    },
+    {
+        "index": 386,
+        "h1": "Acetaminophen, Caffeine, Phenylpropanolamine, Salicylamide",
+        "h2": "اسيتامينوفين، كافيين، فينيل بروبانولامين، ساليسيلاميد",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 387,
+        "h1": "Acetaminophen, Caffeine, Phenyltoloxamine",
+        "h2": "اسيتامينوفين، كافيين، فينيل تولوكسامين",
+        "n2": "مضاد الهيستامين ومسكن الالم",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 388,
+        "h1": "Acetaminophen, Caffeine, Phenyltoloxamine, Salicylamide",
+        "h2": "اسيتامينوفين، كافيين، فينيل تولوكسامين، ساليسيلاميد",
+        "n2": "مضاد الهيستامين ومسكن الالم",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 389,
+        "h1": "Acetaminophen, Caffeine, Chlorpheniramine, Hydrocodone, Phenylephrine",
+        "h2": "اسيتامينوفين، كافيين، كلورفينيرامين، هيدروكودون، فينيليفرين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 390,
+        "h1": "Acetaminophen, Chlorpheniramine, Phenylephrine, Salicylamide",
+        "h2": "اسيتامينوفين، كلورفينرامين، فينيل افرين، ساليسيلاميد",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 391,
+        "h1": "Acetaminophen, Chlorpheniramine, Phenylpropanolamine",
+        "h2": "اسيتامينوفين، كلورفينرامين، فينيل بروبانولامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 392,
+        "h1": "Acetaminophen, Chlorpheniramine",
+        "h2": "أسيتامينوفين، كلورفينيرامين",
+        "n2": "مضاد الهيستامين ومسكن الالم",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 393,
+        "h1": "Acetaminophen, Chlorpheniramine, Guaifenesin, Phenylpropanolamine",
+        "h2": "أسيتامينوفين، كلورفينيرامين، جوايفينيزين، فينيل بروبانولامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 394,
+        "h1": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Phenylpropanolamine",
+        "h2": "أسيتامينوفين، كلورفينيرامين، دكسترومثورفان، فينيل بروبانولامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 395,
+        "h1": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Phenylephrine",
+        "h2": "أسيتامينوفين، كلورفينيرامين، دكسترومثورفان، فينيليفرين",
+        "n2": "الادوية المضادة للهستامين",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 396,
+        "h1": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Guaifenesin",
+        "h2": "أسيتامينوفين، كلورفينيرامين، ديكستروميثورفان، جوافينيسين",
+        "n2": "أدوية السعال و الزكام المركبة",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 397,
+        "h1": "Acetaminophen, Chlorpheniramine, Dextromethorphan, Guaifenesin, Phenylephrine",
+        "h2": "أسيتامينوفين، كلورفينيرامين، ديكستروميثورفان، جوافينيسين، فينيل افرين",
+        "n2": "أدوية السعال و الزكام المركبة",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 398,
+        "h1": "Acetaminophen, Chlorpheniramine, Phenylephrine, Phenylpropanolamine, Pyrilamine",
+        "h2": "أسيتامينوفين، كلورفينيرامين، فينيلفرين، فينيل بروبانولامين، بيريلامين",
+        "n2": "مضاد هيستامين و مضاد احتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 399,
+        "h1": "Acetaminophen, Chlorpheniramine, Phenylephrine, Phenyltoloxamine",
+        "h2": "أسيتامينوفين، كلورفينيرامين، فينيليفرين، فينيلتولوكسامين",
+        "n2": "مسكن و مضاد الهيستامين و مضادات الاحتقان",
+        "n3": "أمراض الجهاز التنفسي"
+    },
+    {
+        "index": 400,
+        "h1": "Acetaminophen, Chlorpheniramine, Codeine",
+        "h2": "أسيتامينوفين، كلورفينيرامين، كودايين",
+        "n2": "مسكنات أفيونية",
+        "n3": "أمراض الجهاز التنفسي"
+    }
+]
