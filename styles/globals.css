@@ -1222,6 +1222,42 @@ font-weight: 700;
   cursor: pointer;
 
 }
+/* page Jmal  */
+.jmal{
+  display: flex;
+  text-align: center;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  flex-wrap: wrap;
+  font-family:  'Arial Narrow', Arial, sans-serif;
+}
+.jmal img{
+  width: 600px;
+  aspect-ratio: 10/7;
+  object-fit: cover;
+  object-position: left;
+  border-radius: 60px;
+  cursor: pointer;
+}
+.jmal img:hover{
+  transform: scale(1.02);
+}
+/* page nuller */
+.null{
+  text-align: center;
+  height: 80vh;
+  
+}
+.null h2{
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 200px;
+  
+}
+.null h2 span{
+  color: tomato;
+}
 @media screen and (max-width: 992px) {
 #nav-links .nav-link:not(:last-child) {
   margin-right: 40px;
@@ -1459,6 +1495,10 @@ header ul li:hover{
   position: absolute;
   top:40px;
   left:10px;
+}
+.jmal img{
+  width: 400px;
+
 }
 
 }
