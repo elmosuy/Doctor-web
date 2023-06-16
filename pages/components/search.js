@@ -4,7 +4,7 @@ import Link from 'next/link';
 
 
 const Search = () => {
-  const [search, setsearch] = useState("da");
+  const [search, setsearch] = useState("afa");
 
   const handelremove = () => {
     const search = document.getElementById("searcher");
