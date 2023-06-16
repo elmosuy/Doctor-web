@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import data from "../../api/api_illness.json"
-import data2 from "../../api/data_illness.json"
+import data2 from "../../api/data_illness2.json"
 
 import Link from 'next/link'
 import { useEffect, useState } from 'react'
