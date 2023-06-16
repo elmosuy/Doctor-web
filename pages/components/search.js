@@ -1,27 +1,35 @@
-import React, { useState } from 'react'
-import dataSearch from "../api/links2.json"
+import React, { useEffect, useState } from 'react'
+import dataSearch from "../api/links.json"
 import Link from 'next/link';
 
 
 const Search = () => {
-  const [search, setsearch] = useState("afa");
+  const [search, setsearch] = useState("daqw");
 
   const handelremove = () => {
     const search = document.getElementById("searcher");
     search.classList.remove("show-search");
   };
-  const filteredData = dataSearch.filter((el) => {
+  const filteredData = dataSearch.filter((el) => {return el.link.toLowerCase().includes(search)})
    
-    return el.link.toLowerCase().includes(search)})
+    
 
+  const [n, setn] = useState(10)
+  const loop=()=>{
+  setn(n+70)
+  
+  }
 
-  const handelsearch = () => {
+  useEffect(() => {
     const search = document.getElementById("searcher");
-    search.classList.add("show-search");
-  };
+    if (filteredData.length>1){
+      
+      search.classList.add("show-search");
+ }
+ }, [search])
 
   return (
-    <div><div class="container" onClick={handelsearch}>
+    <div><div class="container" >
     <input placeholder="ابحث " required="" class="input" name="text" type="text"  onChange={(e) => {setsearch(e.target.value.toLowerCase()) }}/>
            
     <div class="icon">
@@ -35,12 +43,11 @@ const Search = () => {
 
 <div className='searcher' id='searcher'>
   {
-    filteredData.map((el)=>(
-      
+    filteredData.slice(0,n).map((el)=>(
        <div key={el.id} > <Link href={`/components/doa/${el.id}`}><div onClick={handelremove} className='search-item'><h2>{el.link}</h2> <p>{el.title}</p></div></Link></div>
-      
     ))
   }
+  <h3 onClick={loop} className='more'>more</h3>
 </div>
 
 </div>
