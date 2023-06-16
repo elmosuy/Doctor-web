@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import data from "../../api/datas.json"
-import data2 from "../../api/headers.json"
+import data from "../../api/datas2.json"
+import data2 from "../../api/headers2.json"
 import { useRouter } from 'next/router'
 import Link from 'next/link'
 
